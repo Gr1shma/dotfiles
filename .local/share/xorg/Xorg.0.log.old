@@ -1,0 +1,1195 @@
+[ 19918.712] (--) Log file renamed from "/home/grishma/.local/share/xorg/Xorg.pid-74037.log" to "/home/grishma/.local/share/xorg/Xorg.0.log"
+[ 19918.713] 
+X.Org X Server 1.21.1.4
+X Protocol Version 11, Revision 0
+[ 19918.713] Current Operating System: Linux arch 6.0.9-arch1-1 #1 SMP PREEMPT_DYNAMIC Wed, 16 Nov 2022 17:01:17 +0000 x86_64
+[ 19918.713] Kernel command line: BOOT_IMAGE=/vmlinuz-linux root=UUID=5f591074-cb56-4dd3-b7bb-5c21bc7ff5cf rw loglevel=3 quiet
+[ 19918.713]  
+[ 19918.713] Current version of pixman: 0.42.2
+[ 19918.713] 	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.
+[ 19918.713] Markers: (--) probed, (**) from config file, (==) default setting,
+	(++) from command line, (!!) notice, (II) informational,
+	(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+[ 19918.713] (==) Log file: "/home/grishma/.local/share/xorg/Xorg.0.log", Time: Sat Nov 19 18:06:28 2022
+[ 19918.716] (==) Using config directory: "/etc/X11/xorg.conf.d"
+[ 19918.716] (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+[ 19918.717] (==) No Layout section.  Using the first Screen section.
+[ 19918.717] (==) No screen section available. Using defaults.
+[ 19918.717] (**) |-->Screen "Default Screen Section" (0)
+[ 19918.717] (**) |   |-->Monitor "<default monitor>"
+[ 19918.717] (==) No monitor specified for screen "Default Screen Section".
+	Using a default monitor configuration.
+[ 19918.717] (==) Automatically adding devices
+[ 19918.717] (==) Automatically enabling devices
+[ 19918.717] (==) Automatically adding GPU devices
+[ 19918.717] (==) Automatically binding GPU devices
+[ 19918.717] (==) Max clients allowed: 256, resource mask: 0x1fffff
+[ 19918.717] (WW) The directory "/usr/share/fonts/misc" does not exist.
+[ 19918.717] 	Entry deleted from font path.
+[ 19918.717] (WW) The directory "/usr/share/fonts/OTF" does not exist.
+[ 19918.717] 	Entry deleted from font path.
+[ 19918.717] (WW) The directory "/usr/share/fonts/Type1" does not exist.
+[ 19918.717] 	Entry deleted from font path.
+[ 19918.717] (==) FontPath set to:
+	/usr/share/fonts/TTF,
+	/usr/share/fonts/100dpi,
+	/usr/share/fonts/75dpi
+[ 19918.717] (==) ModulePath set to "/usr/lib/xorg/modules"
+[ 19918.717] (II) The server relies on udev to provide the list of input devices.
+	If no devices become available, reconfigure udev or disable AutoAddDevices.
+[ 19918.717] (II) Module ABI versions:
+[ 19918.717] 	X.Org ANSI C Emulation: 0.4
+[ 19918.717] 	X.Org Video Driver: 25.2
+[ 19918.717] 	X.Org XInput driver : 24.4
+[ 19918.717] 	X.Org Server Extension : 10.0
+[ 19918.718] (++) using VT number 2
+
+[ 19918.721] (II) systemd-logind: took control of session /org/freedesktop/login1/session/_322
+[ 19918.722] (II) xfree86: Adding drm device (/dev/dri/card0)
+[ 19918.723] (II) Platform probe for /sys/devices/pci0000:00/0000:00:02.0/drm/card0
+[ 19918.723] (II) systemd-logind: got fd for /dev/dri/card0 226:0 fd 14 paused 0
+[ 19918.727] (--) PCI:*(0@0:2:0) 8086:5917:1025:1219 rev 7, Mem @ 0xb0000000/16777216, 0xa0000000/268435456, I/O @ 0x00004000/64, BIOS @ 0x????????/131072
+[ 19918.727] (WW) Open ACPI failed (/var/run/acpid.socket) (No such file or directory)
+[ 19918.727] (II) LoadModule: "glx"
+[ 19918.728] (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+[ 19918.731] (II) Module glx: vendor="X.Org Foundation"
+[ 19918.731] 	compiled for 1.21.1.4, module version = 1.0.0
+[ 19918.731] 	ABI class: X.Org Server Extension, version 10.0
+[ 19918.731] (==) Matched intel as autoconfigured driver 0
+[ 19918.731] (==) Matched modesetting as autoconfigured driver 1
+[ 19918.731] (==) Matched fbdev as autoconfigured driver 2
+[ 19918.731] (==) Matched vesa as autoconfigured driver 3
+[ 19918.731] (==) Assigned the driver to the xf86ConfigLayout
+[ 19918.731] (II) LoadModule: "intel"
+[ 19918.731] (WW) Warning, couldn't open module intel
+[ 19918.731] (EE) Failed to load module "intel" (module does not exist, 0)
+[ 19918.731] (II) LoadModule: "modesetting"
+[ 19918.731] (II) Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+[ 19918.732] (II) Module modesetting: vendor="X.Org Foundation"
+[ 19918.732] 	compiled for 1.21.1.4, module version = 1.21.1
+[ 19918.732] 	Module class: X.Org Video Driver
+[ 19918.732] 	ABI class: X.Org Video Driver, version 25.2
+[ 19918.732] (II) LoadModule: "fbdev"
+[ 19918.732] (WW) Warning, couldn't open module fbdev
+[ 19918.732] (EE) Failed to load module "fbdev" (module does not exist, 0)
+[ 19918.732] (II) LoadModule: "vesa"
+[ 19918.733] (II) Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+[ 19918.733] (II) Module vesa: vendor="X.Org Foundation"
+[ 19918.733] 	compiled for 1.21.1.3, module version = 2.5.0
+[ 19918.733] 	Module class: X.Org Video Driver
+[ 19918.733] 	ABI class: X.Org Video Driver, version 25.2
+[ 19918.733] (II) modesetting: Driver for Modesetting Kernel Drivers: kms
+[ 19918.733] (II) VESA: driver for VESA chipsets: vesa
+[ 19918.733] xf86EnableIO: failed to enable I/O ports 0000-03ff (Operation not permitted)
+[ 19918.733] (II) modeset(0): using drv /dev/dri/card0
+[ 19918.734] (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+[ 19918.734] (II) modeset(0): Creating default Display subsection in Screen section
+	"Default Screen Section" for depth/fbbpp 24/32
+[ 19918.734] (==) modeset(0): Depth 24, (==) framebuffer bpp 32
+[ 19918.734] (==) modeset(0): RGB weight 888
+[ 19918.734] (==) modeset(0): Default visual is TrueColor
+[ 19918.734] (II) Loading sub module "glamoregl"
+[ 19918.734] (II) LoadModule: "glamoregl"
+[ 19918.734] (II) Loading /usr/lib/xorg/modules/libglamoregl.so
+[ 19918.739] (II) Module glamoregl: vendor="X.Org Foundation"
+[ 19918.739] 	compiled for 1.21.1.4, module version = 1.0.1
+[ 19918.739] 	ABI class: X.Org ANSI C Emulation, version 0.4
+[ 19918.785] (II) modeset(0): glamor X acceleration enabled on Mesa Intel(R) UHD Graphics 620 (KBL GT2)
+[ 19918.785] (II) modeset(0): glamor initialized
+[ 19918.785] (==) modeset(0): VariableRefresh: disabled
+[ 19918.785] (==) modeset(0): AsyncFlipSecondaries: disabled
+[ 19918.786] (II) modeset(0): Output eDP-1 has no monitor section
+[ 19918.790] (II) modeset(0): Output HDMI-1 has no monitor section
+[ 19918.790] (II) modeset(0): Output DP-1 has no monitor section
+[ 19918.791] (II) modeset(0): EDID for output eDP-1
+[ 19918.791] (II) modeset(0): Manufacturer: CMN  Model: 14c4  Serial#: 0
+[ 19918.791] (II) modeset(0): Year: 2015  Week: 38
+[ 19918.791] (II) modeset(0): EDID Version: 1.4
+[ 19918.791] (II) modeset(0): Digital Display Input
+[ 19918.791] (II) modeset(0): 6 bits per channel
+[ 19918.791] (II) modeset(0): Digital interface is DisplayPort
+[ 19918.791] (II) modeset(0): Max Image Size [cm]: horiz.: 31  vert.: 17
+[ 19918.791] (II) modeset(0): Gamma: 2.20
+[ 19918.791] (II) modeset(0): No DPMS capabilities specified
+[ 19918.791] (II) modeset(0): Supported color encodings: RGB 4:4:4 
+[ 19918.791] (II) modeset(0): First detailed timing is preferred mode
+[ 19918.791] (II) modeset(0): Preferred mode is native pixel format and refresh rate
+[ 19918.791] (II) modeset(0): redX: 0.575 redY: 0.335   greenX: 0.327 greenY: 0.580
+[ 19918.791] (II) modeset(0): blueX: 0.157 blueY: 0.137   whiteX: 0.313 whiteY: 0.329
+[ 19918.791] (II) modeset(0): Manufacturer's mask: 0
+[ 19918.791] (II) modeset(0): Supported detailed timing:
+[ 19918.792] (II) modeset(0): clock: 76.4 MHz   Image Size:  309 x 173 mm
+[ 19918.792] (II) modeset(0): h_active: 1366  h_sync: 1434  h_sync_end 1479 h_blank_end 1592 h_border: 0
+[ 19918.792] (II) modeset(0): v_active: 768  v_sync: 772  v_sync_end 779 v_blanking: 800 v_border: 0
+[ 19918.792] (II) modeset(0):  N140BGA-EB3
+[ 19918.792] (II) modeset(0):  CMN
+[ 19918.792] (II) modeset(0):  N140BGA-EB3
+[ 19918.792] (II) modeset(0): EDID (in hex):
+[ 19918.792] (II) modeset(0): 	00ffffffffffff000daec41400000000
+[ 19918.792] (II) modeset(0): 	26190104951f1178027e459355539428
+[ 19918.792] (II) modeset(0): 	23505400000001010101010101010101
+[ 19918.792] (II) modeset(0): 	010101010101da1d56e250002030442d
+[ 19918.792] (II) modeset(0): 	470035ad10000018000000fe004e3134
+[ 19918.792] (II) modeset(0): 	304247412d4542330a20000000fe0043
+[ 19918.792] (II) modeset(0): 	4d4e0a202020202020202020000000fe
+[ 19918.792] (II) modeset(0): 	004e3134304247412d4542330a200050
+[ 19918.792] (II) modeset(0): Printing probed modes for output eDP-1
+[ 19918.792] (II) modeset(0): Modeline "1366x768"x60.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 19918.792] (II) modeset(0): Modeline "1280x720"x120.0  156.12  1280 1376 1512 1744  720 721 724 746 doublescan -hsync +vsync (89.5 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "1280x720"x120.0  120.75  1280 1304 1320 1360  720 721 724 740 doublescan +hsync -vsync (88.8 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "1280x720"x59.9   74.50  1280 1344 1472 1664  720 723 728 748 -hsync +vsync (44.8 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "1280x720"x59.7   63.75  1280 1328 1360 1440  720 723 728 741 +hsync -vsync (44.3 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "1024x768"x120.1  133.47  1024 1100 1212 1400  768 768 770 794 doublescan -hsync +vsync (95.3 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "1024x768"x60.0   65.00  1024 1048 1184 1344  768 771 777 806 -hsync -vsync (48.4 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "960x720"x120.0  117.00  960 1024 1128 1300  720 720 722 750 doublescan -hsync +vsync (90.0 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "928x696"x120.1  109.15  928 976 1088 1264  696 696 698 719 doublescan -hsync +vsync (86.4 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "896x672"x120.0  102.40  896 960 1060 1224  672 672 674 697 doublescan -hsync +vsync (83.7 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "1024x576"x119.9   98.50  1024 1092 1200 1376  576 577 580 597 doublescan -hsync +vsync (71.6 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "1024x576"x119.9   78.38  1024 1048 1064 1104  576 577 580 592 doublescan +hsync -vsync (71.0 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "1024x576"x59.9   46.50  1024 1064 1160 1296  576 579 584 599 -hsync +vsync (35.9 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "1024x576"x59.8   42.00  1024 1072 1104 1184  576 579 584 593 +hsync -vsync (35.5 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "960x600"x119.9   96.62  960 1028 1128 1296  600 601 604 622 doublescan -hsync +vsync (74.6 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "960x600"x120.0   77.00  960 984 1000 1040  600 601 604 617 doublescan +hsync -vsync (74.0 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "960x540"x119.9   86.50  960 1024 1124 1288  540 541 544 560 doublescan -hsync +vsync (67.2 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "960x540"x120.0   69.25  960 984 1000 1040  540 541 544 555 doublescan +hsync -vsync (66.6 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "960x540"x59.6   40.75  960 992 1088 1216  540 543 548 562 -hsync +vsync (33.5 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "960x540"x59.8   37.25  960 1008 1040 1120  540 543 548 556 +hsync -vsync (33.3 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "800x600"x120.0   81.00  800 832 928 1080  600 600 602 625 doublescan +hsync +vsync (75.0 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "800x600"x60.3   40.00  800 840 968 1056  600 601 605 628 +hsync +vsync (37.9 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "800x600"x56.2   36.00  800 824 896 1024  600 601 603 625 +hsync +vsync (35.2 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "840x525"x120.0   73.12  840 892 980 1120  525 526 529 544 doublescan -hsync +vsync (65.3 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "840x525"x119.8   59.50  840 864 880 920  525 526 529 540 doublescan +hsync -vsync (64.7 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "864x486"x59.9   32.50  864 888 968 1072  486 489 494 506 -hsync +vsync (30.3 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "864x486"x59.6   30.50  864 912 944 1024  486 489 494 500 +hsync -vsync (29.8 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "700x525"x120.0   61.00  700 744 820 940  525 526 532 541 doublescan +hsync +vsync (64.9 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "800x450"x119.9   59.12  800 848 928 1056  450 451 454 467 doublescan -hsync +vsync (56.0 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "800x450"x119.6   48.75  800 824 840 880  450 451 454 463 doublescan +hsync -vsync (55.4 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "640x512"x120.0   54.00  640 664 720 844  512 512 514 533 doublescan +hsync +vsync (64.0 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "700x450"x119.9   51.75  700 740 812 924  450 451 456 467 doublescan -hsync +vsync (56.0 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "700x450"x119.8   43.25  700 724 740 780  450 451 456 463 doublescan +hsync -vsync (55.4 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "640x480"x120.0   54.00  640 688 744 900  480 480 482 500 doublescan +hsync +vsync (60.0 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "640x480"x59.9   25.18  640 656 752 800  480 490 492 525 -hsync -vsync (31.5 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "720x405"x59.5   22.50  720 744 808 896  405 408 413 422 -hsync +vsync (25.1 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "720x405"x59.0   21.75  720 768 800 880  405 408 413 419 +hsync -vsync (24.7 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "684x384"x119.8   42.62  684 720 788 892  384 385 390 399 doublescan -hsync +vsync (47.8 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "684x384"x119.7   36.12  684 708 724 764  384 385 390 395 doublescan +hsync -vsync (47.3 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "640x400"x119.8   41.75  640 676 740 840  400 401 404 415 doublescan -hsync +vsync (49.7 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "640x400"x120.0   35.50  640 664 680 720  400 401 404 411 doublescan +hsync -vsync (49.3 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "640x360"x119.7   37.25  640 672 736 832  360 361 364 374 doublescan -hsync +vsync (44.8 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "640x360"x119.7   31.88  640 664 680 720  360 361 364 370 doublescan +hsync -vsync (44.3 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "640x360"x59.8   18.00  640 664 720 800  360 363 368 376 -hsync +vsync (22.5 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "640x360"x59.3   17.75  640 688 720 800  360 363 368 374 +hsync -vsync (22.2 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "512x384"x120.0   32.50  512 524 592 672  384 385 388 403 doublescan -hsync -vsync (48.4 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "512x288"x120.0   23.25  512 532 580 648  288 289 292 299 doublescan -hsync +vsync (35.9 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "512x288"x119.8   21.00  512 536 552 592  288 289 292 296 doublescan +hsync -vsync (35.5 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "480x270"x119.3   20.38  480 496 544 608  270 271 274 281 doublescan -hsync +vsync (33.5 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "480x270"x119.6   18.62  480 504 520 560  270 271 274 278 doublescan +hsync -vsync (33.3 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "400x300"x120.6   20.00  400 420 484 528  300 300 302 314 doublescan +hsync +vsync (37.9 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "400x300"x112.7   18.00  400 412 448 512  300 300 301 312 doublescan +hsync +vsync (35.2 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "432x243"x119.8   16.25  432 444 484 536  243 244 247 253 doublescan -hsync +vsync (30.3 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "432x243"x119.1   15.25  432 456 472 512  243 244 247 250 doublescan +hsync -vsync (29.8 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "320x240"x120.1   12.59  320 328 376 400  240 245 246 262 doublescan -hsync -vsync (31.5 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "360x202"x119.0   11.25  360 372 404 448  202 204 206 211 doublescan -hsync +vsync (25.1 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "360x202"x118.3   10.88  360 384 400 440  202 204 206 209 doublescan +hsync -vsync (24.7 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "320x180"x119.7    9.00  320 332 360 400  180 181 184 188 doublescan -hsync +vsync (22.5 kHz d)
+[ 19918.792] (II) modeset(0): Modeline "320x180"x118.6    8.88  320 344 360 400  180 181 184 187 doublescan +hsync -vsync (22.2 kHz d)
+[ 19918.796] (II) modeset(0): EDID for output HDMI-1
+[ 19918.796] (II) modeset(0): EDID for output DP-1
+[ 19918.796] (II) modeset(0): Output eDP-1 connected
+[ 19918.796] (II) modeset(0): Output HDMI-1 disconnected
+[ 19918.796] (II) modeset(0): Output DP-1 disconnected
+[ 19918.796] (II) modeset(0): Using exact sizes for initial modes
+[ 19918.796] (II) modeset(0): Output eDP-1 using initial mode 1366x768 +0+0
+[ 19918.796] (==) modeset(0): Using gamma correction (1.0, 1.0, 1.0)
+[ 19918.796] (==) modeset(0): DPI set to (96, 96)
+[ 19918.796] (II) Loading sub module "fb"
+[ 19918.796] (II) LoadModule: "fb"
+[ 19918.796] (II) Module "fb" already built-in
+[ 19918.796] (II) UnloadModule: "vesa"
+[ 19918.796] (II) Unloading vesa
+[ 19918.809] (==) modeset(0): Backing store enabled
+[ 19918.809] (==) modeset(0): Silken mouse enabled
+[ 19918.881] (II) modeset(0): Initializing kms color map for depth 24, 8 bpc.
+[ 19918.881] (==) modeset(0): DPMS enabled
+[ 19918.881] (II) modeset(0): [DRI2] Setup complete
+[ 19918.882] (II) modeset(0): [DRI2]   DRI driver: iris
+[ 19918.882] (II) modeset(0): [DRI2]   VDPAU driver: va_gl
+[ 19918.882] (II) Initializing extension Generic Event Extension
+[ 19918.882] (II) Initializing extension SHAPE
+[ 19918.882] (II) Initializing extension MIT-SHM
+[ 19918.882] (II) Initializing extension XInputExtension
+[ 19918.882] (II) Initializing extension XTEST
+[ 19918.882] (II) Initializing extension BIG-REQUESTS
+[ 19918.882] (II) Initializing extension SYNC
+[ 19918.882] (II) Initializing extension XKEYBOARD
+[ 19918.882] (II) Initializing extension XC-MISC
+[ 19918.882] (II) Initializing extension SECURITY
+[ 19918.883] (II) Initializing extension XFIXES
+[ 19918.883] (II) Initializing extension RENDER
+[ 19918.883] (II) Initializing extension RANDR
+[ 19918.883] (II) Initializing extension COMPOSITE
+[ 19918.883] (II) Initializing extension DAMAGE
+[ 19918.883] (II) Initializing extension MIT-SCREEN-SAVER
+[ 19918.883] (II) Initializing extension DOUBLE-BUFFER
+[ 19918.883] (II) Initializing extension RECORD
+[ 19918.883] (II) Initializing extension DPMS
+[ 19918.883] (II) Initializing extension Present
+[ 19918.884] (II) Initializing extension DRI3
+[ 19918.884] (II) Initializing extension X-Resource
+[ 19918.884] (II) Initializing extension XVideo
+[ 19918.884] (II) Initializing extension XVideo-MotionCompensation
+[ 19918.884] (II) Initializing extension GLX
+[ 19918.890] (II) AIGLX: Loaded and initialized iris
+[ 19918.890] (II) GLX: Initialized DRI2 GL provider for screen 0
+[ 19918.890] (II) Initializing extension XFree86-VidModeExtension
+[ 19918.890] (II) Initializing extension XFree86-DGA
+[ 19918.890] (II) Initializing extension XFree86-DRI
+[ 19918.890] (II) Initializing extension DRI2
+[ 19918.891] (II) modeset(0): Damage tracking initialized
+[ 19918.891] (II) modeset(0): Setting screen physical size to 361 x 203
+[ 19918.966] (II) config/udev: Adding input device Power Button (/dev/input/event3)
+[ 19918.966] (**) Power Button: Applying InputClass "libinput keyboard catchall"
+[ 19918.966] (II) LoadModule: "libinput"
+[ 19918.966] (II) Loading /usr/lib/xorg/modules/input/libinput_drv.so
+[ 19918.967] (II) Module libinput: vendor="X.Org Foundation"
+[ 19918.967] 	compiled for 1.21.1.3, module version = 1.2.1
+[ 19918.967] 	Module class: X.Org XInput Driver
+[ 19918.967] 	ABI class: X.Org XInput driver, version 24.4
+[ 19918.967] (II) Using input driver 'libinput' for 'Power Button'
+[ 19918.968] (II) systemd-logind: got fd for /dev/input/event3 13:67 fd 28 paused 0
+[ 19918.968] (**) Power Button: always reports core events
+[ 19918.968] (**) Option "Device" "/dev/input/event3"
+[ 19918.970] (II) event3  - Power Button: is tagged by udev as: Keyboard
+[ 19918.970] (II) event3  - Power Button: device is a keyboard
+[ 19918.970] (II) event3  - Power Button: device removed
+[ 19918.970] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXPWRBN:00/input/input3/event3"
+[ 19918.970] (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+[ 19918.971] (II) event3  - Power Button: is tagged by udev as: Keyboard
+[ 19918.971] (II) event3  - Power Button: device is a keyboard
+[ 19918.971] (II) config/udev: Adding input device Video Bus (/dev/input/event10)
+[ 19918.971] (**) Video Bus: Applying InputClass "libinput keyboard catchall"
+[ 19918.971] (II) Using input driver 'libinput' for 'Video Bus'
+[ 19918.972] (II) systemd-logind: got fd for /dev/input/event10 13:74 fd 31 paused 0
+[ 19918.972] (**) Video Bus: always reports core events
+[ 19918.972] (**) Option "Device" "/dev/input/event10"
+[ 19918.973] (II) event10 - Video Bus: is tagged by udev as: Keyboard
+[ 19918.973] (II) event10 - Video Bus: device is a keyboard
+[ 19918.973] (II) event10 - Video Bus: device removed
+[ 19918.973] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/LNXVIDEO:00/input/input11/event10"
+[ 19918.973] (II) XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 7)
+[ 19918.974] (II) event10 - Video Bus: is tagged by udev as: Keyboard
+[ 19918.975] (II) event10 - Video Bus: device is a keyboard
+[ 19918.975] (II) config/udev: Adding input device Acer Wireless Radio Control (/dev/input/event6)
+[ 19918.975] (**) Acer Wireless Radio Control: Applying InputClass "libinput keyboard catchall"
+[ 19918.975] (II) Using input driver 'libinput' for 'Acer Wireless Radio Control'
+[ 19918.976] (II) systemd-logind: got fd for /dev/input/event6 13:70 fd 32 paused 0
+[ 19918.976] (**) Acer Wireless Radio Control: always reports core events
+[ 19918.976] (**) Option "Device" "/dev/input/event6"
+[ 19918.977] (II) event6  - Acer Wireless Radio Control: is tagged by udev as: Keyboard
+[ 19918.978] (II) event6  - Acer Wireless Radio Control: device is a keyboard
+[ 19918.978] (II) event6  - Acer Wireless Radio Control: device removed
+[ 19918.978] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:18/10251229:00/input/input7/event6"
+[ 19918.978] (II) XINPUT: Adding extended input device "Acer Wireless Radio Control" (type: KEYBOARD, id 8)
+[ 19918.979] (II) event6  - Acer Wireless Radio Control: is tagged by udev as: Keyboard
+[ 19918.979] (II) event6  - Acer Wireless Radio Control: device is a keyboard
+[ 19918.980] (II) config/udev: Adding input device Power Button (/dev/input/event0)
+[ 19918.980] (**) Power Button: Applying InputClass "libinput keyboard catchall"
+[ 19918.980] (II) Using input driver 'libinput' for 'Power Button'
+[ 19918.980] (II) systemd-logind: got fd for /dev/input/event0 13:64 fd 33 paused 0
+[ 19918.980] (**) Power Button: always reports core events
+[ 19918.980] (**) Option "Device" "/dev/input/event0"
+[ 19918.981] (II) event0  - Power Button: is tagged by udev as: Keyboard
+[ 19918.981] (II) event0  - Power Button: device is a keyboard
+[ 19918.982] (II) event0  - Power Button: device removed
+[ 19918.982] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0C:00/input/input0/event0"
+[ 19918.982] (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 9)
+[ 19918.982] (II) event0  - Power Button: is tagged by udev as: Keyboard
+[ 19918.982] (II) event0  - Power Button: device is a keyboard
+[ 19918.983] (II) config/udev: Adding input device Lid Switch (/dev/input/event2)
+[ 19918.983] (II) No input driver specified, ignoring this device.
+[ 19918.983] (II) This device may have been added with another device file.
+[ 19918.984] (II) config/udev: Adding input device Sleep Button (/dev/input/event1)
+[ 19918.984] (**) Sleep Button: Applying InputClass "libinput keyboard catchall"
+[ 19918.984] (II) Using input driver 'libinput' for 'Sleep Button'
+[ 19918.984] (II) systemd-logind: got fd for /dev/input/event1 13:65 fd 34 paused 0
+[ 19918.984] (**) Sleep Button: always reports core events
+[ 19918.984] (**) Option "Device" "/dev/input/event1"
+[ 19918.985] (II) event1  - Sleep Button: is tagged by udev as: Keyboard
+[ 19918.985] (II) event1  - Sleep Button: device is a keyboard
+[ 19918.985] (II) event1  - Sleep Button: device removed
+[ 19918.985] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0E:00/input/input1/event1"
+[ 19918.985] (II) XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 10)
+[ 19918.987] (II) event1  - Sleep Button: is tagged by udev as: Keyboard
+[ 19918.987] (II) event1  - Sleep Button: device is a keyboard
+[ 19918.988] (II) config/udev: Adding input device USB OPTICAL MOUSE  (/dev/input/event5)
+[ 19918.988] (**) USB OPTICAL MOUSE : Applying InputClass "libinput pointer catchall"
+[ 19918.988] (II) Using input driver 'libinput' for 'USB OPTICAL MOUSE '
+[ 19919.045] (II) systemd-logind: got fd for /dev/input/event5 13:69 fd 35 paused 0
+[ 19919.045] (**) USB OPTICAL MOUSE : always reports core events
+[ 19919.045] (**) Option "Device" "/dev/input/event5"
+[ 19919.050] (II) event5  - USB OPTICAL MOUSE : is tagged by udev as: Mouse
+[ 19919.051] (II) event5  - USB OPTICAL MOUSE : device is a pointer
+[ 19919.052] (II) event5  - USB OPTICAL MOUSE : device removed
+[ 19919.052] (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-1/1-1:1.0/0003:275D:0BA6.0002/input/input18/event5"
+[ 19919.052] (II) XINPUT: Adding extended input device "USB OPTICAL MOUSE " (type: MOUSE, id 11)
+[ 19919.052] (**) Option "AccelerationScheme" "none"
+[ 19919.052] (**) USB OPTICAL MOUSE : (accel) selected scheme none/0
+[ 19919.052] (**) USB OPTICAL MOUSE : (accel) acceleration factor: 2.000
+[ 19919.052] (**) USB OPTICAL MOUSE : (accel) acceleration threshold: 4
+[ 19919.058] (II) event5  - USB OPTICAL MOUSE : is tagged by udev as: Mouse
+[ 19919.058] (II) event5  - USB OPTICAL MOUSE : device is a pointer
+[ 19919.061] (II) config/udev: Adding input device USB OPTICAL MOUSE  (/dev/input/mouse0)
+[ 19919.061] (II) No input driver specified, ignoring this device.
+[ 19919.061] (II) This device may have been added with another device file.
+[ 19919.065] (II) config/udev: Adding input device HD WebCam: HD WebCam (/dev/input/event8)
+[ 19919.065] (**) HD WebCam: HD WebCam: Applying InputClass "libinput keyboard catchall"
+[ 19919.065] (II) Using input driver 'libinput' for 'HD WebCam: HD WebCam'
+[ 19919.067] (II) systemd-logind: got fd for /dev/input/event8 13:72 fd 36 paused 0
+[ 19919.067] (**) HD WebCam: HD WebCam: always reports core events
+[ 19919.067] (**) Option "Device" "/dev/input/event8"
+[ 19919.072] (II) event8  - HD WebCam: HD WebCam: is tagged by udev as: Keyboard
+[ 19919.072] (II) event8  - HD WebCam: HD WebCam: device is a keyboard
+[ 19919.073] (II) event8  - HD WebCam: HD WebCam: device removed
+[ 19919.073] (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-7/1-7:1.0/input/input10/event8"
+[ 19919.073] (II) XINPUT: Adding extended input device "HD WebCam: HD WebCam" (type: KEYBOARD, id 12)
+[ 19919.078] (II) event8  - HD WebCam: HD WebCam: is tagged by udev as: Keyboard
+[ 19919.078] (II) event8  - HD WebCam: HD WebCam: device is a keyboard
+[ 19919.080] (II) config/udev: Adding input device HDA Intel PCH Front Headphone (/dev/input/event11)
+[ 19919.080] (II) No input driver specified, ignoring this device.
+[ 19919.080] (II) This device may have been added with another device file.
+[ 19919.081] (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=3 (/dev/input/event12)
+[ 19919.081] (II) No input driver specified, ignoring this device.
+[ 19919.081] (II) This device may have been added with another device file.
+[ 19919.082] (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=7 (/dev/input/event13)
+[ 19919.082] (II) No input driver specified, ignoring this device.
+[ 19919.082] (II) This device may have been added with another device file.
+[ 19919.083] (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=8 (/dev/input/event14)
+[ 19919.083] (II) No input driver specified, ignoring this device.
+[ 19919.083] (II) This device may have been added with another device file.
+[ 19919.084] (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=9 (/dev/input/event15)
+[ 19919.084] (II) No input driver specified, ignoring this device.
+[ 19919.084] (II) This device may have been added with another device file.
+[ 19919.084] (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=10 (/dev/input/event16)
+[ 19919.084] (II) No input driver specified, ignoring this device.
+[ 19919.084] (II) This device may have been added with another device file.
+[ 19919.085] (II) config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event4)
+[ 19919.085] (**) AT Translated Set 2 keyboard: Applying InputClass "libinput keyboard catchall"
+[ 19919.085] (II) Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+[ 19919.086] (II) systemd-logind: got fd for /dev/input/event4 13:68 fd 37 paused 0
+[ 19919.087] (**) AT Translated Set 2 keyboard: always reports core events
+[ 19919.087] (**) Option "Device" "/dev/input/event4"
+[ 19919.088] (II) event4  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[ 19919.089] (II) event4  - AT Translated Set 2 keyboard: device is a keyboard
+[ 19919.089] (II) event4  - AT Translated Set 2 keyboard: device removed
+[ 19919.090] (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio0/input/input4/event4"
+[ 19919.090] (II) XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 13)
+[ 19919.091] (II) event4  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[ 19919.091] (II) event4  - AT Translated Set 2 keyboard: device is a keyboard
+[ 19919.093] (II) config/udev: Adding input device SynPS/2 Synaptics TouchPad (/dev/input/event9)
+[ 19919.093] (**) SynPS/2 Synaptics TouchPad: Applying InputClass "libinput touchpad catchall"
+[ 19919.093] (**) SynPS/2 Synaptics TouchPad: Applying InputClass "libinput touchpad catchall"
+[ 19919.093] (II) Using input driver 'libinput' for 'SynPS/2 Synaptics TouchPad'
+[ 19919.094] (II) systemd-logind: got fd for /dev/input/event9 13:73 fd 38 paused 0
+[ 19919.094] (**) SynPS/2 Synaptics TouchPad: always reports core events
+[ 19919.094] (**) Option "Device" "/dev/input/event9"
+[ 19919.095] (II) event9  - SynPS/2 Synaptics TouchPad: is tagged by udev as: Touchpad
+[ 19919.096] (II) event9  - SynPS/2 Synaptics TouchPad: no resolution or size hints, assuming a size of 69x50mm
+[ 19919.097] (II) event9  - SynPS/2 Synaptics TouchPad: device is a touchpad
+[ 19919.097] (II) event9  - SynPS/2 Synaptics TouchPad: device removed
+[ 19919.098] (**) Option "Tapping" "on"
+[ 19919.098] (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio1/input/input8/event9"
+[ 19919.098] (II) XINPUT: Adding extended input device "SynPS/2 Synaptics TouchPad" (type: TOUCHPAD, id 14)
+[ 19919.099] (**) Option "AccelerationScheme" "none"
+[ 19919.099] (**) SynPS/2 Synaptics TouchPad: (accel) selected scheme none/0
+[ 19919.099] (**) SynPS/2 Synaptics TouchPad: (accel) acceleration factor: 2.000
+[ 19919.099] (**) SynPS/2 Synaptics TouchPad: (accel) acceleration threshold: 4
+[ 19919.100] (II) event9  - SynPS/2 Synaptics TouchPad: is tagged by udev as: Touchpad
+[ 19919.101] (II) event9  - SynPS/2 Synaptics TouchPad: no resolution or size hints, assuming a size of 69x50mm
+[ 19919.102] (II) event9  - SynPS/2 Synaptics TouchPad: device is a touchpad
+[ 19919.103] (II) config/udev: Adding input device SynPS/2 Synaptics TouchPad (/dev/input/mouse1)
+[ 19919.103] (II) No input driver specified, ignoring this device.
+[ 19919.103] (II) This device may have been added with another device file.
+[ 19919.106] (II) config/udev: Adding input device Acer WMI hotkeys (/dev/input/event7)
+[ 19919.106] (**) Acer WMI hotkeys: Applying InputClass "libinput keyboard catchall"
+[ 19919.106] (II) Using input driver 'libinput' for 'Acer WMI hotkeys'
+[ 19919.106] (II) systemd-logind: got fd for /dev/input/event7 13:71 fd 39 paused 0
+[ 19919.106] (**) Acer WMI hotkeys: always reports core events
+[ 19919.106] (**) Option "Device" "/dev/input/event7"
+[ 19919.107] (II) event7  - Acer WMI hotkeys: is tagged by udev as: Keyboard
+[ 19919.107] (II) event7  - Acer WMI hotkeys: device is a keyboard
+[ 19919.108] (II) event7  - Acer WMI hotkeys: device removed
+[ 19919.108] (**) Option "config_info" "udev:/sys/devices/virtual/input/input9/event7"
+[ 19919.108] (II) XINPUT: Adding extended input device "Acer WMI hotkeys" (type: KEYBOARD, id 15)
+[ 19919.108] (II) event7  - Acer WMI hotkeys: is tagged by udev as: Keyboard
+[ 19919.108] (II) event7  - Acer WMI hotkeys: device is a keyboard
+[ 19919.231] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 19919.231] (II) modeset(0): Printing DDC gathered Modelines:
+[ 19919.231] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 19919.398] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 19919.398] (II) modeset(0): Printing DDC gathered Modelines:
+[ 19919.398] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 19919.414] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 19919.414] (II) modeset(0): Printing DDC gathered Modelines:
+[ 19919.414] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 20879.354] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 20879.354] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20879.354] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 20879.537] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 20879.537] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20879.537] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 20879.554] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 20879.554] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20879.554] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 20888.371] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 20888.371] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20888.371] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 20888.570] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 20888.570] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20888.570] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 20888.587] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 20888.587] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20888.587] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 20914.552] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 20914.553] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20914.553] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 20914.736] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 20914.736] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20914.736] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 20914.752] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 20914.752] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20914.752] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21360.449] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21360.449] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21360.449] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21360.632] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21360.632] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21360.632] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21360.649] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21360.649] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21360.649] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21575.956] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21575.956] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21575.956] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21576.155] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21576.155] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21576.156] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21576.172] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21576.172] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21576.172] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21648.536] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21648.536] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21648.536] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21648.769] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21648.769] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21648.769] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21648.785] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21648.785] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21648.786] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21672.801] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21672.801] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21672.801] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21672.984] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21672.984] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21672.984] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21673.018] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21673.018] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21673.018] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21680.101] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21680.101] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21680.101] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21680.301] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21680.301] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21680.301] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21680.334] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21680.334] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21680.334] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21684.784] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21684.784] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21684.784] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21684.984] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21684.984] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21684.984] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21685.000] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21685.001] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21685.001] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21693.184] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21693.184] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21693.184] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21693.383] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21693.383] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21693.383] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21693.400] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21693.400] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21693.400] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21706.400] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21706.400] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21706.400] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21706.600] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21706.600] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21706.600] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21706.616] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21706.616] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21706.616] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21734.165] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21734.165] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21734.165] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21734.432] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21734.432] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21734.432] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21734.465] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21734.465] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21734.465] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21764.130] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21764.130] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21764.130] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21764.314] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21764.314] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21764.314] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21764.347] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21764.347] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21764.347] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21786.896] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21786.896] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21786.896] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21787.179] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21787.179] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21787.179] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21787.196] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21787.196] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21787.196] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21796.112] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21796.113] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21796.113] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21796.295] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21796.295] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21796.295] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21796.312] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21796.312] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21796.312] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21805.878] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21805.879] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21805.879] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21806.212] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21806.212] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21806.212] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21806.228] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21806.228] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21806.228] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21824.328] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21824.328] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21824.328] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21824.544] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21824.544] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21824.544] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21824.561] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21824.561] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21824.561] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21829.894] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21829.894] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21829.895] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21830.094] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21830.094] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21830.094] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21830.127] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21830.127] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21830.127] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21834.911] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21834.911] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21834.911] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21835.127] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21835.127] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21835.127] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21835.144] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21835.144] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21835.144] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21865.992] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21865.993] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21865.993] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21866.242] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21866.242] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21866.242] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21866.259] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21866.259] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21866.259] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21871.009] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21871.009] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21871.009] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21871.325] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21871.325] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21871.325] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21871.359] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21871.359] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21871.359] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21877.542] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21877.542] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21877.542] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21877.725] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21877.725] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21877.725] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21877.758] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21877.758] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21877.758] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21886.608] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21886.608] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21886.608] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21886.791] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21886.791] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21886.791] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21886.825] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21886.825] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21886.825] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21894.024] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21894.025] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21894.025] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21894.258] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21894.258] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21894.258] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21894.274] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21894.274] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21894.274] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21907.124] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21907.124] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21907.124] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21907.324] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21907.324] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21907.324] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 21907.340] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 21907.340] (II) modeset(0): Printing DDC gathered Modelines:
+[ 21907.340] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22018.409] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22018.409] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22018.409] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22018.609] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22018.609] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22018.609] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22018.642] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22018.642] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22018.642] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22046.791] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22046.791] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22046.792] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22046.974] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22046.974] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22046.974] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22046.991] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22046.991] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22046.991] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22091.239] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22091.239] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22091.239] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22091.422] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22091.422] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22091.422] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22091.456] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22091.456] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22091.456] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22115.055] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22115.055] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22115.055] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22115.255] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22115.255] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22115.255] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22115.288] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22115.288] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22115.288] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22171.102] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22171.102] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22171.103] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22171.335] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22171.335] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22171.335] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22171.352] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22171.352] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22171.352] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22209.084] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22209.084] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22209.084] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22209.317] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22209.317] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22209.317] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22209.334] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22209.334] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22209.334] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22213.634] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22213.634] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22213.634] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22213.834] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22213.834] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22213.834] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22213.850] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22213.850] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22213.850] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22239.516] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22239.516] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22239.516] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22239.682] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22239.682] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22239.682] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22239.716] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22239.716] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22239.716] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22316.262] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22316.263] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22316.263] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22316.445] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22316.446] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22316.446] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22316.479] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22316.479] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22316.479] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22330.828] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22330.829] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22330.829] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22331.028] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22331.028] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22331.028] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22331.061] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22331.062] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22331.062] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22356.711] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22356.711] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22356.711] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22356.910] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22356.910] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22356.910] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22356.927] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22356.927] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22356.927] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22604.049] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22604.049] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22604.049] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22604.249] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22604.249] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22604.249] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22604.282] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22604.282] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22604.282] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22619.299] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22619.299] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22619.299] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22619.498] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22619.498] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22619.498] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22619.515] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22619.515] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22619.515] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22681.846] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22681.846] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22681.846] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22682.029] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22682.029] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22682.029] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22682.045] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22682.046] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22682.046] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22697.345] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22697.345] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22697.345] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22697.561] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22697.561] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22697.561] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22697.578] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22697.578] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22697.578] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22712.844] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22712.844] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22712.844] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22713.194] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22713.194] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22713.194] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22713.227] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22713.227] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22713.227] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22900.919] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22900.919] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22900.919] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22901.135] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22901.135] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22901.136] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22901.152] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22901.152] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22901.152] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22917.402] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22917.402] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22917.402] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22917.585] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22917.585] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22917.585] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22917.618] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22917.618] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22917.618] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22940.717] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22940.717] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22940.717] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22941.050] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22941.050] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22941.050] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 22941.084] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 22941.084] (II) modeset(0): Printing DDC gathered Modelines:
+[ 22941.084] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23088.010] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23088.011] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23088.011] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23088.394] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23088.394] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23088.394] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23088.410] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23088.410] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23088.410] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23309.235] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23309.235] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23309.235] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23309.517] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23309.517] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23309.517] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23309.550] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23309.550] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23309.550] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23344.982] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23344.982] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23344.982] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23345.249] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23345.249] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23345.249] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23345.282] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23345.282] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23345.282] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23363.998] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23363.998] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23363.998] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23364.264] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23364.264] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23364.264] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23364.298] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23364.298] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23364.298] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23520.341] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23520.341] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23520.341] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23520.557] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23520.557] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23520.557] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23520.574] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23520.574] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23520.574] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23525.424] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23525.424] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23525.424] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23525.640] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23525.640] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23525.640] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23525.657] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23525.657] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23525.657] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23984.286] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23984.286] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23984.286] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23984.469] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23984.469] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23984.469] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 23984.486] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 23984.486] (II) modeset(0): Printing DDC gathered Modelines:
+[ 23984.486] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24025.184] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24025.184] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24025.184] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24025.384] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24025.384] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24025.384] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24025.401] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24025.401] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24025.401] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24030.367] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24030.367] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24030.367] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24030.734] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24030.734] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24030.734] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24030.751] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24030.751] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24030.751] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24038.984] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24038.984] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24038.984] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24039.184] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24039.184] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24039.184] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24039.200] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24039.200] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24039.200] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24176.861] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24176.861] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24176.861] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24196.327] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24196.327] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24196.327] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24196.676] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24196.676] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24196.676] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24196.710] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24196.710] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24196.710] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24280.423] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24280.423] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24280.423] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24280.789] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24280.789] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24280.789] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24280.823] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24280.823] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24280.823] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24301.022] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24301.022] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24301.022] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24301.338] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24301.338] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24301.338] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24301.355] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24301.355] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24301.355] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24338.070] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24338.070] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24338.070] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24338.287] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24338.287] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24338.287] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24338.320] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24338.320] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24338.320] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24343.470] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24343.470] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24343.470] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24343.753] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24343.753] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24343.753] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24343.786] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24343.786] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24343.786] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24556.893] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24556.894] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24556.894] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24557.193] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24557.193] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24557.193] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24557.227] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24557.227] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24557.227] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24567.610] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24567.610] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24567.610] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24567.909] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24567.909] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24567.909] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 24567.926] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 24567.926] (II) modeset(0): Printing DDC gathered Modelines:
+[ 24567.926] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25038.221] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25038.222] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25038.222] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25038.621] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25038.621] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25038.621] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25038.638] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25038.638] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25038.638] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25084.403] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25084.403] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25084.403] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25084.802] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25084.803] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25084.803] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25084.819] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25084.819] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25084.819] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25433.103] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25433.104] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25433.104] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25433.387] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25433.387] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25433.387] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25433.403] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25433.403] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25433.403] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25467.952] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25467.952] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25467.952] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25468.152] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25468.152] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25468.152] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25468.185] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25468.185] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25468.185] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25474.802] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25474.802] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25474.802] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25475.051] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25475.051] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25475.051] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25475.085] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25475.085] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25475.085] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25497.601] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25497.601] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25497.601] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25497.834] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25497.834] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25497.834] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25497.867] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25497.867] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25497.867] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25502.050] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25502.051] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25502.051] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25502.267] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25502.267] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25502.267] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25502.300] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25502.300] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25502.300] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25521.683] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25521.683] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25521.683] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25525.616] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25525.616] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25525.616] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25525.816] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25525.816] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25525.816] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25525.832] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25525.832] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25525.832] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25569.597] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25569.597] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25569.597] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25569.830] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25569.830] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25569.830] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25569.864] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25569.864] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25569.864] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25574.214] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25574.214] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25574.214] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25574.430] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25574.430] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25574.430] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25574.447] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25574.447] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25574.447] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25655.277] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25655.277] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25655.277] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25655.560] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25655.560] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25655.560] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25655.593] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25655.593] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25655.593] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25666.810] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25666.810] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25666.810] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25667.059] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25667.059] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25667.059] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25667.093] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25667.093] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25667.093] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25676.426] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25676.426] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25676.426] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25676.675] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25676.676] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25676.676] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25676.692] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25676.692] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25676.692] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25688.292] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25688.292] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25688.292] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25688.492] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25688.492] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25688.492] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25688.525] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25688.525] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25688.525] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25696.858] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25696.858] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25696.858] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25697.075] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25697.075] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25697.075] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25697.091] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25697.091] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25697.091] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25701.358] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25701.358] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25701.358] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25701.558] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25701.558] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25701.558] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25701.574] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25701.574] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25701.574] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25896.349] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25896.349] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25896.349] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25896.565] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25896.566] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25896.566] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25896.582] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25896.582] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25896.582] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25926.098] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25926.098] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25926.098] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25926.314] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25926.314] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25926.314] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 25926.347] (II) modeset(0): EDID vendor "CMN", prod id 5316
+[ 25926.347] (II) modeset(0): Printing DDC gathered Modelines:
+[ 25926.347] (II) modeset(0): Modeline "1366x768"x0.0   76.42  1366 1434 1479 1592  768 772 779 800 -hsync -vsync (48.0 kHz eP)
+[ 35124.848] (EE) client bug: timer event5 debounce short: scheduled expiry is in the past (-27ms), your system is too slow
+[ 35125.040] (**) Option "fd" "28"
+[ 35125.040] (II) event3  - Power Button: device removed
+[ 35125.041] (**) Option "fd" "31"
+[ 35125.041] (II) event10 - Video Bus: device removed
+[ 35125.041] (**) Option "fd" "32"
+[ 35125.041] (II) event6  - Acer Wireless Radio Control: device removed
+[ 35125.041] (**) Option "fd" "33"
+[ 35125.041] (II) event0  - Power Button: device removed
+[ 35125.041] (**) Option "fd" "34"
+[ 35125.041] (II) event1  - Sleep Button: device removed
+[ 35125.041] (**) Option "fd" "35"
+[ 35125.041] (II) event5  - USB OPTICAL MOUSE : device removed
+[ 35125.043] (**) Option "fd" "36"
+[ 35125.043] (II) event8  - HD WebCam: HD WebCam: device removed
+[ 35125.043] (**) Option "fd" "37"
+[ 35125.043] (II) event4  - AT Translated Set 2 keyboard: device removed
+[ 35125.043] (**) Option "fd" "38"
+[ 35125.043] (II) event9  - SynPS/2 Synaptics TouchPad: device removed
+[ 35125.043] (**) Option "fd" "39"
+[ 35125.043] (II) event7  - Acer WMI hotkeys: device removed
+[ 35125.070] (II) UnloadModule: "libinput"
+[ 35125.070] (II) systemd-logind: releasing fd for 13:71
+[ 35125.167] (II) UnloadModule: "libinput"
+[ 35125.167] (II) systemd-logind: releasing fd for 13:73
+[ 35125.239] (II) UnloadModule: "libinput"
+[ 35125.239] (II) systemd-logind: releasing fd for 13:68
+[ 35125.263] (II) UnloadModule: "libinput"
+[ 35125.263] (II) systemd-logind: releasing fd for 13:72
+[ 35125.430] (II) UnloadModule: "libinput"
+[ 35125.430] (II) systemd-logind: releasing fd for 13:69
+[ 35125.473] (II) UnloadModule: "libinput"
+[ 35125.473] (II) systemd-logind: releasing fd for 13:65
+[ 35125.503] (II) UnloadModule: "libinput"
+[ 35125.503] (II) systemd-logind: releasing fd for 13:64
+[ 35125.520] (II) UnloadModule: "libinput"
+[ 35125.520] (II) systemd-logind: releasing fd for 13:70
+[ 35125.556] (II) UnloadModule: "libinput"
+[ 35125.556] (II) systemd-logind: releasing fd for 13:74
+[ 35125.592] (II) UnloadModule: "libinput"
+[ 35125.592] (II) systemd-logind: releasing fd for 13:67
+[ 35125.655] (WW) xf86CloseConsole: KDSETMODE failed: Input/output error
+[ 35125.655] (WW) xf86CloseConsole: VT_GETMODE failed: Input/output error
+[ 35125.698] (II) Server terminated successfully (0). Closing log file.

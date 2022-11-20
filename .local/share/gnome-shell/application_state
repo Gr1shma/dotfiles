@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-power-panel.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.Nautilus.desktop" score="22" last-seen="1668838887"/>
+    <application id="org.gnome.Epiphany.desktop" score="0" last-seen="1668836626"/>
+    <application id="atom.desktop" score="5" last-seen="1668835981"/>
+    <application id="xterm.desktop" score="3" last-seen="1668835961"/>
+    <application id="org.gnome.Console.desktop" score="68" last-seen="1668839437"/>
+    <application id="firefox.desktop" score="0" last-seen="1668837952"/>
+    <application id="thunar.desktop" score="6" last-seen="1668835996"/>
+    <application id="visual-studio-code.desktop" score="39" last-seen="1668839348"/>
+    <application id="brave-browser.desktop" score="289" last-seen="1668839470"/>
+    <application id="org.gnome.eog.desktop" score="2" last-seen="1668838834"/>
+    <application id="org.gnome.Settings.desktop" score="0" last-seen="1668836640"/>
+    <application id="Alacritty.desktop" score="0" last-seen="1668838959"/>
+  </context>
+</application-state>

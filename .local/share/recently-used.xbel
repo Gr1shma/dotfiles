@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/personal/arch_meme_wallpaper.png" added="2022-11-19T06:17:37.702247Z" modified="2022-11-19T06:17:51.246250Z" visited="2022-11-19T06:17:37.702258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:17:50.892670Z" count="4"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:17:51.246248Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/personal/artistic-mountains-4k-qu.jpg" added="2022-11-19T06:18:05.285927Z" modified="2022-11-19T06:18:05.966894Z" visited="2022-11-19T06:18:05.285934Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:18:05.285941Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:18:05.966893Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/personal/a-languid-afternoon-1366%C3%97768.jpg" added="2022-11-19T06:18:26.434643Z" modified="2022-11-19T06:18:26.771727Z" visited="2022-11-19T06:18:26.434647Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:18:26.434653Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:18:26.771725Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/personal/84631.jpg" added="2022-11-19T06:18:30.989577Z" modified="2022-11-19T06:18:31.306721Z" visited="2022-11-19T06:18:30.989580Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:18:30.989586Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:18:31.306719Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/personal/8.png" added="2022-11-19T06:18:36.693604Z" modified="2022-11-19T06:18:46.264003Z" visited="2022-11-19T06:18:36.693611Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:18:45.938659Z" count="3"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:18:46.264001Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/personal/japwave.jpg" added="2022-11-19T06:18:59.207237Z" modified="2022-11-19T06:18:59.517148Z" visited="2022-11-19T06:18:59.207238Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:18:59.207243Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:18:59.517146Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/personal/wallhaven-gjyoq7.png" added="2022-11-19T06:19:09.534976Z" modified="2022-11-19T06:19:09.855616Z" visited="2022-11-19T06:19:09.534979Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:19:09.534987Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:19:09.855613Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/sweet_chichen/beach_lady.png" added="2022-11-19T06:19:41.929934Z" modified="2022-11-19T06:20:00.309175Z" visited="2022-11-19T06:19:41.929938Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:19:59.734085Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:20:00.309174Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/sweet_chichen/beserk3.jpeg" added="2022-11-19T06:19:47.391320Z" modified="2022-11-19T06:19:47.811621Z" visited="2022-11-19T06:19:47.391321Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:19:47.391325Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:19:47.811620Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/sweet_chichen/masked_warrior.jpeg" added="2022-11-19T06:19:51.175551Z" modified="2022-11-19T06:19:51.550824Z" visited="2022-11-19T06:19:51.175552Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:19:51.175557Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:19:51.550823Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/sweet_chichen/prayer_light.jpeg" added="2022-11-19T06:19:55.288954Z" modified="2022-11-19T06:19:55.613446Z" visited="2022-11-19T06:19:55.288959Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:19:55.288968Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:19:55.613445Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/szorenfein/anonymous.jpg" added="2022-11-19T06:20:13.078145Z" modified="2022-11-19T06:20:13.390515Z" visited="2022-11-19T06:20:13.078147Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:20:13.078150Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:20:13.390514Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/szorenfein/battleship.jpg" added="2022-11-19T06:20:16.257665Z" modified="2022-11-19T06:20:16.582639Z" visited="2022-11-19T06:20:16.257671Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:20:16.257685Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:20:16.582638Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/szorenfein/birth.jpg" added="2022-11-19T06:20:19.514194Z" modified="2022-11-19T06:20:19.832911Z" visited="2022-11-19T06:20:19.514202Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:20:19.514218Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:20:19.832910Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/szorenfein/sunset.jpg" added="2022-11-19T06:20:24.265543Z" modified="2022-11-19T06:20:24.575391Z" visited="2022-11-19T06:20:24.265544Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:20:24.265551Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:20:24.575389Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/szorenfein/universe.jpg" added="2022-11-19T06:20:27.606737Z" modified="2022-11-19T06:20:27.910356Z" visited="2022-11-19T06:20:27.606742Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:20:27.606755Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:20:27.910355Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/szorenfein/planet.jpg" added="2022-11-19T06:20:30.970460Z" modified="2022-11-19T06:20:31.296235Z" visited="2022-11-19T06:20:30.970467Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:20:30.970478Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:20:31.296233Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpapers/szorenfein/morpho.jpg" added="2022-11-19T06:20:32.929428Z" modified="2022-11-19T06:20:33.262876Z" visited="2022-11-19T06:20:32.929429Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-11-19T06:20:32.929438Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T06:20:33.262875Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/1.png" added="2022-11-19T10:01:17.584102Z" modified="2022-11-19T10:04:00.617612Z" visited="2022-11-19T10:01:17.584102Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:04:00.617611Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/8.png" added="2022-11-19T10:01:19.271483Z" modified="2022-11-19T10:04:06.337281Z" visited="2022-11-19T10:01:19.271483Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:04:06.337280Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/24k1rlJ%20-%20Imgur.jpg" added="2022-11-19T10:01:20.058379Z" modified="2022-11-19T10:01:20.058383Z" visited="2022-11-19T10:01:20.058379Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:20.058381Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/0040.jpg" added="2022-11-19T10:01:21.385060Z" modified="2022-11-19T10:01:21.385065Z" visited="2022-11-19T10:01:21.385061Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:21.385063Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/0240.jpg" added="2022-11-19T10:01:21.834433Z" modified="2022-11-19T10:01:21.834440Z" visited="2022-11-19T10:01:21.834434Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:21.834438Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/3019-city-of-bright-lights-1600%C3%97900.jpg" added="2022-11-19T10:01:22.442491Z" modified="2022-11-19T10:01:22.442496Z" visited="2022-11-19T10:01:22.442492Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:22.442494Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/84631.jpg" added="2022-11-19T10:01:22.887869Z" modified="2022-11-19T10:01:22.887875Z" visited="2022-11-19T10:01:22.887870Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:22.887873Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/321307.jpg" added="2022-11-19T10:01:27.760620Z" modified="2022-11-19T10:01:27.760624Z" visited="2022-11-19T10:01:27.760620Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:27.760622Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/396873.jpg" added="2022-11-19T10:01:31.764632Z" modified="2022-11-19T10:01:31.764636Z" visited="2022-11-19T10:01:31.764633Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:31.764635Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/568265.jpg" added="2022-11-19T10:01:37.523071Z" modified="2022-11-19T10:01:37.523076Z" visited="2022-11-19T10:01:37.523072Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:37.523074Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/589333.jpg" added="2022-11-19T10:01:39.196650Z" modified="2022-11-19T10:01:39.196655Z" visited="2022-11-19T10:01:39.196651Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:39.196653Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/606263.jpg" added="2022-11-19T10:01:40.890141Z" modified="2022-11-19T10:01:40.890156Z" visited="2022-11-19T10:01:40.890143Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:40.890149Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/1145374.jpg" added="2022-11-19T10:01:42.017336Z" modified="2022-11-19T10:01:42.017339Z" visited="2022-11-19T10:01:42.017336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:42.017338Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/a-cyberpunk-piece.jpg" added="2022-11-19T10:01:43.797761Z" modified="2022-11-19T10:01:43.797765Z" visited="2022-11-19T10:01:43.797761Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:43.797764Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/adventure-alps-background-547114.jpg" added="2022-11-19T10:01:45.655000Z" modified="2022-11-19T10:01:45.655006Z" visited="2022-11-19T10:01:45.655001Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:45.655004Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/a-languid-afternoon-1366%C3%97768.jpg" added="2022-11-19T10:01:47.427914Z" modified="2022-11-19T10:01:47.427919Z" visited="2022-11-19T10:01:47.427915Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:47.427917Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/andreas-gucklhorn-mawU2PoJWfU-unsplash.jpg" added="2022-11-19T10:01:48.515121Z" modified="2022-11-19T10:01:48.515125Z" visited="2022-11-19T10:01:48.515121Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:48.515123Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/anonymous.jpg" added="2022-11-19T10:01:49.450142Z" modified="2022-11-19T10:01:49.450146Z" visited="2022-11-19T10:01:49.450143Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:49.450144Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/Arch-Linux-Wallpaper-04-1920x1080.jpg" added="2022-11-19T10:01:50.178707Z" modified="2022-11-19T10:01:50.178711Z" visited="2022-11-19T10:01:50.178707Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:50.178710Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/arch_meme_wallpaper.png" added="2022-11-19T10:01:51.994590Z" modified="2022-11-19T10:01:51.994594Z" visited="2022-11-19T10:01:51.994590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:51.994592Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/artistic-mountains-4k-qu.jpg" added="2022-11-19T10:01:53.059741Z" modified="2022-11-19T10:01:54.799056Z" visited="2022-11-19T10:01:53.059752Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:54.799054Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/artwork-Sun-red-1280347.jpg" added="2022-11-19T10:01:53.755579Z" modified="2022-11-19T10:01:55.275815Z" visited="2022-11-19T10:01:53.755580Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:55.275812Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/Ashim%20DSilva.jpg" added="2022-11-19T10:01:56.502875Z" modified="2022-11-19T10:01:56.502881Z" visited="2022-11-19T10:01:56.502875Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:56.502879Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/astro.png" added="2022-11-19T10:01:57.511464Z" modified="2022-11-19T10:01:57.511481Z" visited="2022-11-19T10:01:57.511466Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:57.511474Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/autumn-colorful-colourful-33109.jpg" added="2022-11-19T10:01:58.499053Z" modified="2022-11-19T10:01:58.499057Z" visited="2022-11-19T10:01:58.499054Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:58.499056Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/background-beach-beautiful-719597.jpg" added="2022-11-19T10:01:59.741069Z" modified="2022-11-19T10:01:59.741086Z" visited="2022-11-19T10:01:59.741071Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:01:59.741079Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/battleship.jpg" added="2022-11-19T10:02:00.975362Z" modified="2022-11-19T10:02:00.975368Z" visited="2022-11-19T10:02:00.975363Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:00.975366Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/beautiful-blur-bright-326055.jpg" added="2022-11-19T10:02:02.388553Z" modified="2022-11-19T10:02:02.388558Z" visited="2022-11-19T10:02:02.388554Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:02.388556Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/birth.jpg" added="2022-11-19T10:02:03.980016Z" modified="2022-11-19T10:02:08.484724Z" visited="2022-11-19T10:02:03.980018Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:08.484722Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/Canazei%20Granite%20Ridges.jpg" added="2022-11-19T10:02:06.149433Z" modified="2022-11-19T10:02:10.594120Z" visited="2022-11-19T10:02:06.149434Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:10.594118Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/cars-city-cityscape-92866.jpg" added="2022-11-19T10:02:06.514373Z" modified="2022-11-19T10:02:12.215043Z" visited="2022-11-19T10:02:06.514374Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:12.215040Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/cGIxyBE.jpg" added="2022-11-19T10:02:13.647379Z" modified="2022-11-19T10:02:13.647384Z" visited="2022-11-19T10:02:13.647380Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:13.647382Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/city.jpg" added="2022-11-19T10:02:15.242585Z" modified="2022-11-19T10:02:15.242590Z" visited="2022-11-19T10:02:15.242586Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:15.242588Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/cloudwatching-1366%C3%97768.jpg" added="2022-11-19T10:02:16.769681Z" modified="2022-11-19T10:02:16.769686Z" visited="2022-11-19T10:02:16.769682Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:16.769684Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/croped2.jpg" added="2022-11-19T10:02:18.721655Z" modified="2022-11-19T10:02:18.721659Z" visited="2022-11-19T10:02:18.721656Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:18.721657Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/cwHAqBE-arch-linux-wallpaper.jpg" added="2022-11-19T10:02:19.927200Z" modified="2022-11-19T10:02:19.927204Z" visited="2022-11-19T10:02:19.927200Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:19.927202Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/cybergirl.jpg" added="2022-11-19T10:02:21.246229Z" modified="2022-11-19T10:02:21.246236Z" visited="2022-11-19T10:02:21.246230Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:21.246233Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/daylight-forest-glossy-443446.jpg" added="2022-11-19T10:02:22.845045Z" modified="2022-11-19T10:02:22.845054Z" visited="2022-11-19T10:02:22.845046Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:22.845052Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/eternity-1920%C3%971080.jpg" added="2022-11-19T10:02:23.965820Z" modified="2022-11-19T10:02:23.965824Z" visited="2022-11-19T10:02:23.965820Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:23.965823Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/fantasy-women-warrior-raining-artwork-forest-rocks-nature.jpg" added="2022-11-19T10:02:26.598953Z" modified="2022-11-19T10:02:26.598961Z" visited="2022-11-19T10:02:26.598954Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:26.598958Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/felipe-dias-02_umdkLn_0-unsplash.jpg" added="2022-11-19T10:02:28.019883Z" modified="2022-11-19T10:02:28.019888Z" visited="2022-11-19T10:02:28.019884Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:28.019886Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/forest.png" added="2022-11-19T10:02:29.189044Z" modified="2022-11-19T10:02:29.189049Z" visited="2022-11-19T10:02:29.189045Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:29.189047Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/ghibli-wars-by-stephen-zavala-1366%C3%97768.jpg" added="2022-11-19T10:02:32.198560Z" modified="2022-11-19T10:02:32.198564Z" visited="2022-11-19T10:02:32.198560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:32.198562Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/Gnome%20Abstract%2023.png" added="2022-11-19T10:02:34.250461Z" modified="2022-11-19T10:02:34.250466Z" visited="2022-11-19T10:02:34.250461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:34.250463Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/ismail-inceoglu-chaos-invoked.jpg" added="2022-11-19T10:02:35.513389Z" modified="2022-11-19T10:02:35.513394Z" visited="2022-11-19T10:02:35.513390Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:35.513392Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/jack1.jpg" added="2022-11-19T10:02:37.572681Z" modified="2022-11-19T10:02:37.572686Z" visited="2022-11-19T10:02:37.572682Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:37.572684Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/jack2.jpg" added="2022-11-19T10:02:38.977316Z" modified="2022-11-19T10:02:38.977322Z" visited="2022-11-19T10:02:38.977317Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:38.977320Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/jack3.jpg" added="2022-11-19T10:02:40.358119Z" modified="2022-11-19T10:02:40.358124Z" visited="2022-11-19T10:02:40.358119Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:40.358122Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/jack4.jpg" added="2022-11-19T10:02:42.292114Z" modified="2022-11-19T10:02:42.292120Z" visited="2022-11-19T10:02:42.292115Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:42.292118Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/jack5.jpg" added="2022-11-19T10:02:43.763389Z" modified="2022-11-19T10:02:43.763395Z" visited="2022-11-19T10:02:43.763391Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:43.763393Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/jack6.jpg" added="2022-11-19T10:02:44.982922Z" modified="2022-11-19T10:02:44.982926Z" visited="2022-11-19T10:02:44.982922Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:44.982925Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/jack7.jpg" added="2022-11-19T10:02:45.875078Z" modified="2022-11-19T10:02:45.875083Z" visited="2022-11-19T10:02:45.875079Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:45.875081Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/japwave.jpg" added="2022-11-19T10:02:46.737913Z" modified="2022-11-19T10:02:46.737919Z" visited="2022-11-19T10:02:46.737914Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:46.737916Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/Jonas%20Nilsson%20Lee.jpg" added="2022-11-19T10:02:47.813731Z" modified="2022-11-19T10:02:47.813735Z" visited="2022-11-19T10:02:47.813731Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:47.813733Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/landscape_art_road_127350_3840x2400.jpg" added="2022-11-19T10:02:48.754174Z" modified="2022-11-19T10:02:48.754179Z" visited="2022-11-19T10:02:48.754175Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:48.754177Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/larutadelsorigens_kakashi-wallpaper_2265611.jpg" added="2022-11-19T10:02:50.134756Z" modified="2022-11-19T10:02:50.134761Z" visited="2022-11-19T10:02:50.134757Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:50.134759Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/lock-wallpaper.png" added="2022-11-19T10:02:51.412626Z" modified="2022-11-19T10:02:51.412630Z" visited="2022-11-19T10:02:51.412627Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:51.412629Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/lost-in-translation-by-frank-hong-1366%C3%97768.jpg" added="2022-11-19T10:02:52.541739Z" modified="2022-11-19T10:02:52.541746Z" visited="2022-11-19T10:02:52.541740Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:52.541743Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/Luca%20Bravo.jpg" added="2022-11-19T10:02:53.812721Z" modified="2022-11-19T10:02:53.812728Z" visited="2022-11-19T10:02:53.812722Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:53.812725Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/luna.jpg" added="2022-11-19T10:02:54.756252Z" modified="2022-11-19T10:02:54.756257Z" visited="2022-11-19T10:02:54.756253Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:54.756255Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/madness.png" added="2022-11-19T10:02:57.875373Z" modified="2022-11-19T10:02:57.875379Z" visited="2022-11-19T10:02:57.875374Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:57.875376Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/maroon-clouds-in-a-crusty-reflection-1366%C3%97768.jpg" added="2022-11-19T10:02:59.273012Z" modified="2022-11-19T10:02:59.273017Z" visited="2022-11-19T10:02:59.273013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:02:59.273015Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/mclaren_p1_minimalism_art_98755_1920x1080.jpg" added="2022-11-19T10:03:00.124994Z" modified="2022-11-19T10:03:00.124998Z" visited="2022-11-19T10:03:00.124995Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:00.124997Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/miami.jpg" added="2022-11-19T10:03:00.971409Z" modified="2022-11-19T10:03:00.971414Z" visited="2022-11-19T10:03:00.971410Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:00.971412Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/mikael-gustafsson-amongtrees-2-8.jpg" added="2022-11-19T10:03:01.989919Z" modified="2022-11-19T10:03:01.989926Z" visited="2022-11-19T10:03:01.989920Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:01.989923Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/mikael-gustafsson-girl-bear-mikael-gustafsson-artstation.jpg" added="2022-11-19T10:03:03.240086Z" modified="2022-11-19T10:03:03.240092Z" visited="2022-11-19T10:03:03.240087Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:03.240089Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/mikael-gustafsson-wallpaper-mikael-gustafsson.jpg" added="2022-11-19T10:03:04.338088Z" modified="2022-11-19T10:03:04.338095Z" visited="2022-11-19T10:03:04.338089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:04.338093Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/morpho.jpg" added="2022-11-19T10:03:05.495780Z" modified="2022-11-19T10:03:05.495786Z" visited="2022-11-19T10:03:05.495781Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:05.495783Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/neon-cyberpunk-by-natalia-bielawska-1366%C3%97768.jpg" added="2022-11-19T10:03:06.502166Z" modified="2022-11-19T10:03:06.502171Z" visited="2022-11-19T10:03:06.502166Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:06.502169Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/neon-shallows-1366%C3%97768.jpg" added="2022-11-19T10:03:07.710052Z" modified="2022-11-19T10:03:07.710058Z" visited="2022-11-19T10:03:07.710052Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:07.710055Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/niklas-tidbury-NWvXXbN_VyM-unsplash.jpg" added="2022-11-19T10:03:09.368822Z" modified="2022-11-19T10:03:09.368826Z" visited="2022-11-19T10:03:09.368822Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:09.368824Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/nordic_dark_wallpaper.png" added="2022-11-19T10:03:10.291157Z" modified="2022-11-19T10:03:10.291163Z" visited="2022-11-19T10:03:10.291158Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:10.291160Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/orangeabstract.jpg" added="2022-11-19T10:03:11.540108Z" modified="2022-11-19T10:03:11.540114Z" visited="2022-11-19T10:03:11.540109Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:11.540111Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/ornella-binni-Fw55DEkH6pg-unsplash.jpg" added="2022-11-19T10:03:14.065694Z" modified="2022-11-19T10:03:14.065700Z" visited="2022-11-19T10:03:14.065695Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:14.065698Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/Photo%20by%20SpaceX.jpg" added="2022-11-19T10:03:15.012321Z" modified="2022-11-19T10:03:15.012326Z" visited="2022-11-19T10:03:15.012322Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:15.012324Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/PKt7K9T-arch-linux-wallpaper.jpg" added="2022-11-19T10:03:16.058027Z" modified="2022-11-19T10:03:16.058032Z" visited="2022-11-19T10:03:16.058028Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:16.058030Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/planet.jpg" added="2022-11-19T10:03:17.066168Z" modified="2022-11-19T10:03:17.066174Z" visited="2022-11-19T10:03:17.066169Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:17.066171Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/red-seems-suspicious-bro-4k-1366%C3%97768.jpg" added="2022-11-19T10:03:18.683501Z" modified="2022-11-19T10:03:18.683505Z" visited="2022-11-19T10:03:18.683501Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:18.683503Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/Ryan%20Schroeder.jpg" added="2022-11-19T10:03:19.949193Z" modified="2022-11-19T10:03:19.949199Z" visited="2022-11-19T10:03:19.949194Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:19.949197Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/SBKjnxm.jpg" added="2022-11-19T10:03:21.239882Z" modified="2022-11-19T10:03:21.239887Z" visited="2022-11-19T10:03:21.239883Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:21.239885Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/Screenshot%20from%202019-05-08%2020-27-25.png" added="2022-11-19T10:03:22.280953Z" modified="2022-11-19T10:03:22.280959Z" visited="2022-11-19T10:03:22.280954Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:22.280957Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/sombra.png" added="2022-11-19T10:03:23.262029Z" modified="2022-11-19T10:03:23.262033Z" visited="2022-11-19T10:03:23.262030Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:23.262031Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/star-map-1366%C3%97768.jpg" added="2022-11-19T10:03:24.607160Z" modified="2022-11-19T10:03:24.607165Z" visited="2022-11-19T10:03:24.607161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:24.607163Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/sunset.jpg" added="2022-11-19T10:03:25.570369Z" modified="2022-11-19T10:03:25.570375Z" visited="2022-11-19T10:03:25.570370Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:25.570373Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/sunset_horizon_minimal_4k-HD.jpg" added="2022-11-19T10:03:26.626376Z" modified="2022-11-19T10:03:26.626382Z" visited="2022-11-19T10:03:26.626377Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:26.626380Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/the-priory-of-the-orange-tree-3440%C3%971440.jpg" added="2022-11-19T10:03:27.955904Z" modified="2022-11-19T10:03:27.955910Z" visited="2022-11-19T10:03:27.955905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:27.955908Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/tokyo.jpg" added="2022-11-19T10:03:29.121164Z" modified="2022-11-19T10:03:29.121170Z" visited="2022-11-19T10:03:29.121165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:29.121168Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/top-of-the-world-by-jakejk-1366%C3%97768.jpg" added="2022-11-19T10:03:30.199566Z" modified="2022-11-19T10:03:30.199571Z" visited="2022-11-19T10:03:30.199567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:30.199569Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/waiting-in-the-rain-by-omutatsu-1366%C3%97768.jpg" added="2022-11-19T10:03:31.260795Z" modified="2022-11-19T10:03:31.260799Z" visited="2022-11-19T10:03:31.260795Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:31.260797Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wallhaven-1p33z3_1366x768.png" added="2022-11-19T10:03:32.457203Z" modified="2022-11-19T10:03:32.457208Z" visited="2022-11-19T10:03:32.457204Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:32.457206Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wallhaven-3l9ody_1366x768.png" added="2022-11-19T10:03:33.540788Z" modified="2022-11-19T10:03:33.540801Z" visited="2022-11-19T10:03:33.540790Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:33.540795Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wallhaven-9mrpqx_1366x768.png" added="2022-11-19T10:03:34.623176Z" modified="2022-11-19T10:03:34.623180Z" visited="2022-11-19T10:03:34.623176Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:34.623178Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wallhaven-735kwo_1366x720.png" added="2022-11-19T10:03:35.555972Z" modified="2022-11-19T10:03:40.219658Z" visited="2022-11-19T10:03:35.555973Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:40.219656Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wallhaven-eydedl.jpg" added="2022-11-19T10:03:37.118609Z" modified="2022-11-19T10:03:37.118615Z" visited="2022-11-19T10:03:37.118610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:37.118613Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wallhaven-gjyoq7.png" added="2022-11-19T10:03:39.323940Z" modified="2022-11-19T10:03:41.272081Z" visited="2022-11-19T10:03:39.323940Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:41.272079Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wallhaven-m3dqj8_1366x768.png" added="2022-11-19T10:03:42.267114Z" modified="2022-11-19T10:03:42.267120Z" visited="2022-11-19T10:03:42.267115Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:42.267117Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wallhaven-vqgxw3_1366x768.png" added="2022-11-19T10:03:43.459767Z" modified="2022-11-19T10:03:45.565127Z" visited="2022-11-19T10:03:43.459768Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:45.565125Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wallpaper.png" added="2022-11-19T10:03:44.209106Z" modified="2022-11-19T10:03:47.760241Z" visited="2022-11-19T10:03:44.209106Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:47.760238Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/worker.jpg" added="2022-11-19T10:03:47.205185Z" modified="2022-11-19T10:03:48.545304Z" visited="2022-11-19T10:03:47.205186Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:48.545301Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wp2609248-doflamingo-wallpapers.jpg" added="2022-11-19T10:03:51.080180Z" modified="2022-11-19T10:03:51.080184Z" visited="2022-11-19T10:03:51.080180Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:51.080182Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wp4366895-nezuko-wallpapers.png" added="2022-11-19T10:03:51.882812Z" modified="2022-11-19T10:03:51.882827Z" visited="2022-11-19T10:03:51.882814Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:51.882821Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/Ws1s82d-avengers-wallpaper-hd.jpg" added="2022-11-19T10:03:54.291372Z" modified="2022-11-19T10:03:54.291377Z" visited="2022-11-19T10:03:54.291373Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:54.291375Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/Yosemite%20National%20Park%20Wallpaper%20353609.jpg" added="2022-11-19T10:03:56.465970Z" modified="2022-11-19T10:03:56.465975Z" visited="2022-11-19T10:03:56.465971Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:56.465973Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/your-name-1280%C3%97800.jpg" added="2022-11-19T10:03:57.627083Z" modified="2022-11-19T10:03:57.627087Z" visited="2022-11-19T10:03:57.627084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:03:57.627086Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/z-s-nqVDLh2WLus-unsplash.jpg" added="2022-11-19T10:03:59.277194Z" modified="2022-11-19T10:04:04.313913Z" visited="2022-11-19T10:03:59.277195Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-11-19T10:04:04.313911Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wakanda-tribute.jpg" added="2022-11-19T10:15:43.346577Z" modified="2022-11-19T10:15:43.346591Z" visited="2022-11-19T10:15:43.346579Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-11-19T10:15:43.346584Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/.config/alacritty" added="2022-11-20T02:44:22.819806Z" modified="2022-11-20T02:44:22.819818Z" visited="2022-11-20T02:44:22.819808Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-11-20T02:44:22.819813Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
