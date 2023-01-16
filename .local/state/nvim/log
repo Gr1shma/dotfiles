@@ -1,0 +1,571 @@
+ERR 2023-01-13T11:41:11.751 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:11.767 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:14.551 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:14.552 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:14.555 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:14.584 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:14.622 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:14.889 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:14.904 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:14.920 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:14.934 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:14.943 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:15.375 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:15.407 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:15.447 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.027 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.030 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.074 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.080 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.101 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.103 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.111 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.119 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.127 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.135 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.143 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.151 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.159 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.167 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.175 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.183 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.191 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.199 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.207 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.215 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.223 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.239 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.247 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.263 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.279 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.295 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.311 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.327 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.335 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.343 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.351 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.367 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.375 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.391 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.599 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.938 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:20.942 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:21.145 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:21.150 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:21.167 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:21.183 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:21.191 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:21.199 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:21.207 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:21.215 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:21.223 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:21.231 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:21.240 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T11:41:21.967 nvim.6890.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: /usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: col value outside range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:216: in function 'fn'
+	/usr/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	/usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:240: in function </usr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2023-01-13T13:58:48.846 nvim.22073.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a number value
+stack traceback:
+ERR 2023-01-13T13:58:48.847 nvim.22073.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):win: Error executing lua: attempt to call a number value
+stack traceback:
+ERR 2023-01-13T13:58:48.847 nvim.22073.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a number value
+stack traceback:
+ERR 2023-01-13T13:59:32.294 nvim.22120.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T13:59:32.294 nvim.22120.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):win: Error executing lua: attempt to call a number value
+stack traceback:
+ERR 2023-01-13T13:59:32.294 nvim.22120.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a number value
+stack traceback:
+ERR 2023-01-13T14:01:45.235 nvim.22273.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:01:56.626 nvim.22292.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:01:56.626 nvim.22292.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):win: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:01:56.626 nvim.22292.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:02:35.313 nvim.22326.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:02:35.313 nvim.22326.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: ...ite/pack/packer/start/bufferline.nvim/lua/bufferline.lua:133: A name must be passed to execute a group action
+stack traceback:
+	[C]: in function 'assert'
+	...ite/pack/packer/start/bufferline.nvim/lua/bufferline.lua:133: in function 'group_action'
+	...ite/pack/packer/start/bufferline.nvim/lua/bufferline.lua:247: in function <...ite/pack/packer/start/bufferline.nvim/lua/bufferline.lua:247>
+ERR 2023-01-13T14:04:54.587 nvim.22401.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:07:05.425 nvim.22637.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:07:28.820 nvim.22682.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:07:28.820 nvim.22682.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):win: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:07:28.821 nvim.22682.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:13:49.360 nvim.23369.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:13:49.360 nvim.23369.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: provider %s retval is not a boolean
+ERR 2023-01-13T14:16:51.488 nvim.23504.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:17:04.436 nvim.23524.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:38:53.209 nvim.23571.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:39:29.080 nvim.23730.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:39:50.944 nvim.23749.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:39:50.944 nvim.23749.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):win: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:39:50.944 nvim.23749.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:41:25.344 nvim.23805.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:45:17.649 nvim.24016.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:45:46.583 nvim.24033.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:46:01.086 nvim.24054.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:46:01.086 nvim.24054.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):win: Error executing lua: attempt to call a number value
+stack traceback:
+ERR 2023-01-13T14:46:01.086 nvim.24054.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:49:53.862 nvim.24246.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:49:53.862 nvim.24246.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:54:14.053 nvim.24427.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:54:35.695 nvim.24445.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:54:35.695 nvim.24445.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):win: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:54:35.695 nvim.24445.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:55:41.256 nvim.24480.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:55:41.256 nvim.24480.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):win: Error executing lua: attempt to call a userdata value
+stack traceback:
+ERR 2023-01-13T14:55:41.256 nvim.24480.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a number value
+stack traceback:
+ERR 2023-01-13T14:55:48.449 nvim.24499.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:55:48.449 nvim.24499.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):win: Error executing lua: attempt to call a number value
+stack traceback:
+ERR 2023-01-13T14:55:48.449 nvim.24499.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:58:31.630 nvim.24593.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:58:59.656 nvim.24613.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T14:58:59.656 nvim.24613.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: ...ite/pack/packer/start/bufferline.nvim/lua/bufferline.lua:133: A name must be passed to execute a group action
+stack traceback:
+	[C]: in function 'assert'
+	...ite/pack/packer/start/bufferline.nvim/lua/bufferline.lua:133: in function 'group_action'
+	...ite/pack/packer/start/bufferline.nvim/lua/bufferline.lua:247: in function <...ite/pack/packer/start/bufferline.nvim/lua/bufferline.lua:247>
+ERR 2023-01-13T15:14:23.149 nvim.25785.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T15:14:23.149 nvim.25785.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):win: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T15:14:23.149 nvim.25785.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T15:14:46.412 nvim.26335.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T15:14:46.412 nvim.26335.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):win: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T15:14:46.412 nvim.26335.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T15:17:08.326 nvim.26407.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T15:17:08.326 nvim.26407.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):win: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T15:17:08.326 nvim.26407.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T15:28:55.311 nvim.27189.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):buf: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T15:28:55.311 nvim.27189.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):win: Error executing lua: attempt to call a nil value
+stack traceback:
+ERR 2023-01-13T15:28:55.311 nvim.27189.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a nil value
+stack traceback:

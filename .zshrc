@@ -10,6 +10,15 @@ export ZSH="$HOME/.oh-my-zsh"
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="rkj-repos"
 
+# Some alisas for the workflow
+alias bro='cd ~/Documents/Bash'
+alias dw='cd ~/Downloads'
+alias vl='cd ~/Videos'
+alias doc='cd ~/Documents'
+alias js='cd ~/Documents/JavaScript'
+alias ccrc='cd ~/Documents/CCRC'
+alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias hx='helix'
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/

@@ -1,9 +1,10 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="firefox.desktop" score="386" last-seen="1672640873"/>
-    <application id="org.gnome.Console.desktop" score="145" last-seen="1672640876"/>
-    <application id="org.gnome.Nautilus.desktop" score="23" last-seen="1672640870"/>
-    <application id="org.gnome.Settings.desktop" score="8" last-seen="1672637836"/>
+    <application id="firefox.desktop" score="58" last-seen="1673765381"/>
+    <application id="Alacritty.desktop" score="16" last-seen="1673765129"/>
+    <application id="org.gnome.tweaks.desktop" score="1" last-seen="1673765388"/>
+    <application id="org.gnome.Settings.desktop" score="3" last-seen="1673764823"/>
+    <application id="teams.desktop" score="13" last-seen="1673764825"/>
   </context>
 </application-state>
