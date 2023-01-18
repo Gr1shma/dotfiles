@@ -85,7 +85,6 @@ bspc rule -a Screenkey manage=off
 
 ## Autostart -------------------------------------------------#
 
-
 # Restore wallpaper
 feh --bg-fill --randomize ~/Pictures/wallpaper/*
 
