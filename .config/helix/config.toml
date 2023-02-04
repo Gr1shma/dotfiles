@@ -19,6 +19,9 @@ render = true
 character = "╎" # Some characters that work well: "▏", "┆", "┊", "⸽"
 skip-levels = 1
 
+[keys.insert]
+j = {k = "normal_mode"}
+
 [keys.normal.g]
 q = ":reflow"
 
