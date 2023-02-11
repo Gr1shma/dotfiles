@@ -32,7 +32,7 @@ pomodoro () {
   val=$1
   echo $val | lolcat
   timer ${pomo_options["$val"]}m
-  notify-send "$val session done"
+  spd-say "$val session done"
   fi
 }
 
