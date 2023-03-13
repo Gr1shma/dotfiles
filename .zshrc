@@ -9,30 +9,32 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="rkj-repos"
-
+#ZSH_THEME="rkj-repos"
+ZSH_THEME="aussiegeek"
 # Some alisas for the workflow
 alias bro='cd ~/Documents/Bash'
 alias dw='cd ~/Downloads'
 alias vl='cd ~/Videos'
 alias doc='cd ~/Documents'
 alias js='cd ~/Documents/JavaScript'
+alias rs='cd ~/Documents/RUST'
 alias ccrc='cd ~/Documents/CCRC'
 alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias hx='helix'
 alias dwmc='cd ~/.local/src/dwm/'
 alias dpp='cd ~/Documents/PDF\|NOTES\|BOOKS/'
+alias ytlocal='source ~/.local/src/yt-local/venv/bin/activate && python ~/.local/src/yt-local/server.py'
+
 # Cli pomodoro
 declare -A pomo_options
-pomo_options["work"]="60"
+pomo_options["work"]="50"
 pomo_options["break"]="10"
-
 pomodoro () {
   if [ -n "$1" -a -n "${pomo_options["$1"]}" ]; then
   val=$1
   echo $val | lolcat
   timer ${pomo_options["$val"]}m
-  spd-say "$val session done"
+  # spd-say "$val session done"
   fi
 }
 
