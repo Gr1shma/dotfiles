@@ -1,49 +1,26 @@
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH="$HOME/.local/bin:$PATH"
+# export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
+export PATH=$PATH:$HOME/.local/bin
+export LANG=en_US.UTF-8
+export LC_ALL="C"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-#ZSH_THEME="rkj-repos"
-ZSH_THEME="aussiegeek"
-# Some alisas for the workflow
-alias bro='cd ~/Documents/Bash'
-alias dw='cd ~/Downloads'
-alias vl='cd ~/Videos'
-alias doc='cd ~/Documents'
-alias js='cd ~/Documents/JavaScript'
-alias rs='cd ~/Documents/RUST'
-alias ccrc='cd ~/Documents/CCRC'
-alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+ZSH_THEME="rkj"
 alias hx='helix'
-alias dwmc='cd ~/.local/src/dwm/'
-alias dpp='cd ~/Documents/PDF\|NOTES\|BOOKS/'
-alias ytlocal='source ~/.local/src/yt-local/venv/bin/activate && python ~/.local/src/yt-local/server.py'
+alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias hst="history 1 -1 | cut -c 8- | sort | uniq | fzf | tr -d '\n' | xclip -sel c"
+alias dw='~/Downloads'
+alias dc='~/Documents'
+alias ru='~/Documents/RUST'
+alias project='~/Documents/projects'
 
-# Cli pomodoro
-declare -A pomo_options
-pomo_options["work"]="50"
-pomo_options["break"]="10"
-pomodoro () {
-  if [ -n "$1" -a -n "${pomo_options["$1"]}" ]; then
-  val=$1
-  echo $val | lolcat
-  timer ${pomo_options["$val"]}m
-  # spd-say "$val session done"
-  fi
-}
-
-alias wo="pomodoro 'work'"
-alias br="pomodoro 'break'"
-
-
-
-
+/home/grishma/.config/shell/aliasrc
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
@@ -133,4 +110,3 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-

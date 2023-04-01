@@ -12,7 +12,7 @@ super + i
 
 # power options form rofi
 super + p
-	power_menu_rofi
+	power_menu
 
 # make sxhkd reload its configuration files:
 super + Escape
