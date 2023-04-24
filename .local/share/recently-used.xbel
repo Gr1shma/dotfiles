@@ -3,73 +3,73 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/grishma" added="2023-01-16T12:03:32.884620Z" modified="2023-03-26T12:08:07.108829Z" visited="2023-01-16T12:03:32.884621Z">
+  <bookmark href="file:///home/grishma" added="2023-01-16T12:03:32.884620Z" modified="2023-04-22T12:19:42.213291Z" visited="2023-01-16T12:03:32.884621Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-03-26T12:08:07.108827Z" count="22"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:19:42.213290Z" count="27"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/grishma/Videos" added="2023-01-16T12:12:40.241151Z" modified="2023-04-01T10:57:50.240985Z" visited="2023-01-16T12:12:40.241152Z">
+  <bookmark href="file:///home/grishma/Videos" added="2023-01-16T12:12:40.241151Z" modified="2023-04-18T12:22:23.759645Z" visited="2023-01-16T12:12:40.241152Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-01T10:57:50.240981Z" count="72"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:23.759639Z" count="73"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/grishma/Downloads" added="2023-01-17T05:55:19.358120Z" modified="2023-04-06T12:06:56.003735Z" visited="2023-01-17T05:55:19.358122Z">
+  <bookmark href="file:///home/grishma/Downloads" added="2023-01-17T05:55:19.358120Z" modified="2023-04-18T12:22:25.454350Z" visited="2023-01-17T05:55:19.358122Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-06T12:06:56.003733Z" count="107"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:25.454345Z" count="111"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/grishma/Documents" added="2023-01-17T05:56:04.681732Z" modified="2023-04-01T10:45:59.940624Z" visited="2023-01-17T05:56:04.681734Z">
+  <bookmark href="file:///home/grishma/Documents" added="2023-01-17T05:56:04.681732Z" modified="2023-04-18T12:22:34.793620Z" visited="2023-01-17T05:56:04.681734Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-01T10:45:59.940619Z" count="95"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:34.793612Z" count="98"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/grishma/Pictures" added="2023-01-17T06:48:53.960359Z" modified="2023-04-01T10:45:58.830974Z" visited="2023-01-17T06:48:53.960361Z">
+  <bookmark href="file:///home/grishma/Pictures" added="2023-01-17T06:48:53.960359Z" modified="2023-04-18T12:22:41.355153Z" visited="2023-01-17T06:48:53.960361Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-01T10:45:58.830971Z" count="69"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:41.355149Z" count="74"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/grishma/Music" added="2023-01-24T01:27:44.168443Z" modified="2023-04-01T10:45:57.487665Z" visited="2023-01-24T01:27:44.168444Z">
+  <bookmark href="file:///home/grishma/Music" added="2023-01-24T01:27:44.168443Z" modified="2023-04-18T12:22:37.372039Z" visited="2023-01-24T01:27:44.168444Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-01T10:45:57.487662Z" count="39"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:37.372034Z" count="41"/>
           <bookmark:application name="Cozy" exec="&apos;com.github.geigi.cozy %u&apos;" modified="2023-03-08T16:16:04.567878Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/grishma/Documents/PDF%7CNOTES%7CBOOKS" added="2023-01-28T17:13:09.571573Z" modified="2023-03-28T03:06:32.176579Z" visited="2023-01-28T17:13:09.571576Z">
+  <bookmark href="file:///home/grishma/Documents/PDF%7CNOTES%7CBOOKS" added="2023-01-28T17:13:09.571573Z" modified="2023-04-18T12:22:28.740619Z" visited="2023-01-28T17:13:09.571576Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-03-28T03:06:32.176577Z" count="16"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:28.740616Z" count="17"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -94,42 +94,42 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/grishma/Music/Playlist" added="2023-02-25T04:52:36.840786Z" modified="2023-03-30T15:33:04.136028Z" visited="2023-02-25T04:52:36.840788Z">
+  <bookmark href="file:///home/grishma/Music/Playlist" added="2023-02-25T04:52:36.840786Z" modified="2023-04-18T12:22:39.227855Z" visited="2023-02-25T04:52:36.840788Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-03-30T15:33:04.136021Z" count="3"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:39.227850Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/grishma/Pictures/wallpaper" added="2023-02-25T10:38:51.626631Z" modified="2023-04-01T04:00:19.944025Z" visited="2023-02-25T10:38:51.626632Z">
+  <bookmark href="file:///home/grishma/Pictures/wallpaper" added="2023-02-25T10:38:51.626631Z" modified="2023-04-18T12:25:02.124397Z" visited="2023-02-25T10:38:51.626632Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-01T04:00:19.944023Z" count="6"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:02.124393Z" count="7"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="trash:///" added="2023-02-26T11:45:07.564980Z" modified="2023-03-30T15:43:40.169596Z" visited="2023-02-26T11:45:07.564980Z">
+  <bookmark href="trash:///" added="2023-02-26T11:45:07.564980Z" modified="2023-04-22T12:15:53.245653Z" visited="2023-02-26T11:45:07.564980Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-03-30T15:43:40.169595Z" count="6"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:15:53.245650Z" count="8"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="recent:///" added="2023-03-04T09:33:48.956566Z" modified="2023-03-30T15:34:11.882494Z" visited="2023-03-04T09:33:48.956567Z">
+  <bookmark href="recent:///" added="2023-03-04T09:33:48.956566Z" modified="2023-04-22T12:19:41.869649Z" visited="2023-03-04T09:33:48.956567Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-03-30T15:34:11.882492Z" count="3"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:19:41.869647Z" count="7"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -204,12 +204,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/grishma/Documents/Obsidian/Tuts" added="2023-03-28T11:38:22.932301Z" modified="2023-03-30T12:50:50.561558Z" visited="2023-03-28T11:38:22.932302Z">
+  <bookmark href="file:///home/grishma/Documents/Obsidian/Tuts" added="2023-03-28T11:38:22.932301Z" modified="2023-04-18T11:56:44.583307Z" visited="2023-03-28T11:38:22.932302Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2023-03-30T12:50:50.561553Z" count="2"/>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2023-04-18T11:56:44.583299Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1074,12 +1074,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="mtp://Xiaomi_POCO_X3_Pro_5ba2ee19/Internal%20shared%20storage" added="2023-04-01T03:36:16.705808Z" modified="2023-04-01T10:43:30.338079Z" visited="2023-04-01T03:36:16.705809Z">
+  <bookmark href="mtp://Xiaomi_POCO_X3_Pro_5ba2ee19/Internal%20shared%20storage" added="2023-04-01T03:36:16.705808Z" modified="2023-04-22T12:16:28.726713Z" visited="2023-04-01T03:36:16.705809Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-01T10:43:30.338075Z" count="7"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:16:28.726708Z" count="9"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1144,12 +1144,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="mtp://Xiaomi_POCO_X3_Pro_5ba2ee19/Internal%20shared%20storage/Music" added="2023-04-01T03:36:55.058129Z" modified="2023-04-01T03:52:34.328839Z" visited="2023-04-01T03:36:55.058131Z">
+  <bookmark href="mtp://Xiaomi_POCO_X3_Pro_5ba2ee19/Internal%20shared%20storage/Music" added="2023-04-01T03:36:55.058129Z" modified="2023-04-22T12:15:48.446962Z" visited="2023-04-01T03:36:55.058131Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-01T03:52:34.328837Z" count="3"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:15:48.446959Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1164,12 +1164,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="mtp://Xiaomi_POCO_X3_Pro_5ba2ee19/Internal%20shared%20storage/Download" added="2023-04-01T03:37:05.485739Z" modified="2023-04-01T03:51:20.319266Z" visited="2023-04-01T03:37:05.485741Z">
+  <bookmark href="mtp://Xiaomi_POCO_X3_Pro_5ba2ee19/Internal%20shared%20storage/Download" added="2023-04-01T03:37:05.485739Z" modified="2023-04-22T12:16:33.573234Z" visited="2023-04-01T03:37:05.485741Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-01T03:51:20.319262Z" count="12"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:16:33.573229Z" count="13"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2684,12 +2684,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/grishma/Pictures/mobile-wallpaper" added="2023-04-01T10:05:49.327615Z" modified="2023-04-01T10:05:49.327620Z" visited="2023-04-01T10:05:49.327616Z">
+  <bookmark href="file:///home/grishma/Pictures/mobile-wallpaper" added="2023-04-01T10:05:49.327615Z" modified="2023-04-18T12:23:56.891211Z" visited="2023-04-01T10:05:49.327616Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-01T10:05:49.327617Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:56.891207Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -3094,12 +3094,13 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/grishma/Pictures/she.jpg" added="2023-04-15T06:37:37.919027Z" modified="2023-04-15T07:24:52.303728Z" visited="2023-04-15T06:37:37.919032Z">
+  <bookmark href="file:///home/grishma/Pictures/she.jpg" added="2023-04-15T06:37:37.919027Z" modified="2023-04-18T12:21:17.987351Z" visited="2023-04-15T06:37:37.919032Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-15T07:24:52.303716Z" count="4"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:21:17.987349Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -3130,6 +3131,870 @@
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-15T06:47:36.644754Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Downloads/De-20230416T104008Z-001.zip" added="2023-04-16T10:41:27.966673Z" modified="2023-04-16T10:41:27.966687Z" visited="2023-04-16T10:41:27.966676Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-16T10:41:27.966681Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/0c146ac23e1ef98e3348bdf67a1e6be4.jpg" added="2023-04-16T13:14:17.835842Z" modified="2023-04-16T13:14:17.835847Z" visited="2023-04-16T13:14:17.835843Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-16T13:14:17.835845Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/custom" added="2023-04-16T13:14:22.572344Z" modified="2023-04-16T13:14:22.572356Z" visited="2023-04-16T13:14:22.572346Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-16T13:14:22.572350Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/2mc8ou73ira81.jpg" added="2023-04-16T17:23:05.256378Z" modified="2023-04-18T12:25:08.569028Z" visited="2023-04-16T17:23:05.256380Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-16T17:23:05.256383Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569022Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/c5a2mjtzaoa81.png" added="2023-04-16T17:23:30.838216Z" modified="2023-04-18T12:25:08.569057Z" visited="2023-04-16T17:23:30.838222Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-16T17:23:30.838233Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569052Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wallhaven-l315vy.png" added="2023-04-16T17:23:47.905975Z" modified="2023-04-18T12:25:08.569124Z" visited="2023-04-16T17:23:47.905976Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-16T17:23:47.905977Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569121Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Fight-The-Fright-Final-Rounds" added="2023-04-18T12:21:51.698678Z" modified="2023-04-18T12:21:51.698685Z" visited="2023-04-18T12:21:51.698679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:21:51.698681Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Fight-The-Fright-Final-Rounds/FTF-other-pics" added="2023-04-18T12:21:54.566132Z" modified="2023-04-18T12:21:54.566153Z" visited="2023-04-18T12:21:54.566135Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:21:54.566142Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Fight-The-Fright-Final-Rounds/FTF-other-pics/Drive" added="2023-04-18T12:21:56.677648Z" modified="2023-04-18T12:21:56.677664Z" visited="2023-04-18T12:21:56.677650Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:21:56.677655Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Fight-The-Fright-Final-Rounds/FTF-other-pics/Drive/IMG_9111.JPG" added="2023-04-18T12:22:03.552701Z" modified="2023-04-18T12:22:03.552713Z" visited="2023-04-18T12:22:03.552703Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:03.552707Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Documents/PDF%7CNOTES%7CBOOKS/AUDIOBOOKS" added="2023-04-18T12:22:30.222015Z" modified="2023-04-18T12:22:30.222028Z" visited="2023-04-18T12:22:30.222017Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:30.222021Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Documents/PDF%7CNOTES%7CBOOKS/AUDIOBOOKS/Dune%20-%20Frank%20Herbert" added="2023-04-18T12:22:31.125008Z" modified="2023-04-18T12:22:31.125021Z" visited="2023-04-18T12:22:31.125010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:31.125014Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Adobe%20Scan%20Exports" added="2023-04-18T12:22:42.685864Z" modified="2023-04-18T12:22:42.685881Z" visited="2023-04-18T12:22:42.685866Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:42.685871Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/AdobeLightroom" added="2023-04-18T12:22:44.516188Z" modified="2023-04-18T12:22:44.516201Z" visited="2023-04-18T12:22:44.516190Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:44.516195Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/AdobeLightroom/IMG_20230414_125440_1.jpg" added="2023-04-18T12:22:51.246892Z" modified="2023-04-18T12:22:51.246938Z" visited="2023-04-18T12:22:51.246894Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:51.246902Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/AdobeLightroom/IMG_20230414_125423_1.jpg" added="2023-04-18T12:22:57.997008Z" modified="2023-04-18T12:22:57.997014Z" visited="2023-04-18T12:22:57.997009Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:22:57.997011Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/AdobeLightroom/IMG_20230414_123609.jpg" added="2023-04-18T12:23:01.366803Z" modified="2023-04-18T12:23:01.366816Z" visited="2023-04-18T12:23:01.366805Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:01.366809Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/archived" added="2023-04-18T12:23:05.580009Z" modified="2023-04-18T12:23:05.580022Z" visited="2023-04-18T12:23:05.580011Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:05.580016Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Canva" added="2023-04-18T12:23:13.635655Z" modified="2023-04-18T12:23:13.635667Z" visited="2023-04-18T12:23:13.635657Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:13.635661Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Facebook" added="2023-04-18T12:23:18.372312Z" modified="2023-04-18T12:23:18.372324Z" visited="2023-04-18T12:23:18.372313Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:18.372318Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Facebook/FB_IMG_1679754716949.jpg" added="2023-04-18T12:23:20.006286Z" modified="2023-04-18T12:23:20.006298Z" visited="2023-04-18T12:23:20.006288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:20.006292Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Gallery" added="2023-04-18T12:23:26.454848Z" modified="2023-04-18T12:23:26.454853Z" visited="2023-04-18T12:23:26.454849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:26.454850Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Gallery/owner" added="2023-04-18T12:23:27.452445Z" modified="2023-04-18T12:23:27.452464Z" visited="2023-04-18T12:23:27.452447Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:27.452453Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Gallery/owner/Lamo" added="2023-04-18T12:23:28.086098Z" modified="2023-04-18T12:23:28.086112Z" visited="2023-04-18T12:23:28.086099Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:28.086106Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Gallery/owner/Lamo/IMG_20230217_084541.jpg" added="2023-04-18T12:23:29.677794Z" modified="2023-04-18T12:23:29.677806Z" visited="2023-04-18T12:23:29.677796Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:29.677800Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Gimp%20Files" added="2023-04-18T12:23:35.588646Z" modified="2023-04-18T12:23:35.588659Z" visited="2023-04-18T12:23:35.588648Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:35.588652Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/imp-pics" added="2023-04-18T12:23:43.195584Z" modified="2023-04-18T12:23:43.195596Z" visited="2023-04-18T12:23:43.195586Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:43.195590Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/imp-pics/img_1_1663693569694.jpg" added="2023-04-18T12:23:45.718666Z" modified="2023-04-18T12:23:45.718685Z" visited="2023-04-18T12:23:45.718668Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:45.718674Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/me" added="2023-04-18T12:23:48.986588Z" modified="2023-04-18T12:23:48.986601Z" visited="2023-04-18T12:23:48.986590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:48.986594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Messenger" added="2023-04-18T12:23:51.477338Z" modified="2023-04-18T12:23:51.477343Z" visited="2023-04-18T12:23:51.477339Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:23:51.477340Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/New%20Folder" added="2023-04-18T12:24:00.602627Z" modified="2023-04-18T12:24:00.602632Z" visited="2023-04-18T12:24:00.602628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:24:00.602630Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Others" added="2023-04-18T12:24:05.549343Z" modified="2023-04-18T12:24:19.700680Z" visited="2023-04-18T12:24:05.549345Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:24:19.700674Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Others/316479515_2923349544638888_4969801000750072553_n.jpg" added="2023-04-18T12:24:20.900087Z" modified="2023-04-18T12:24:20.900093Z" visited="2023-04-18T12:24:20.900088Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:24:20.900090Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Reddit" added="2023-04-18T12:24:28.644807Z" modified="2023-04-18T12:24:28.644820Z" visited="2023-04-18T12:24:28.644809Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:24:28.644813Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Reddit/RDT_20220703_2030175651313421822835853.jpg" added="2023-04-18T12:24:29.676160Z" modified="2023-04-18T12:24:29.676164Z" visited="2023-04-18T12:24:29.676160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:24:29.676162Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Reddit/RDT_20220706_1659293970572400285067227.jpg" added="2023-04-18T12:24:31.732171Z" modified="2023-04-18T12:24:31.732176Z" visited="2023-04-18T12:24:31.732172Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:24:31.732173Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/scanner" added="2023-04-18T12:24:35.853152Z" modified="2023-04-18T12:24:35.853165Z" visited="2023-04-18T12:24:35.853154Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:24:35.853158Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Sunil" added="2023-04-18T12:24:40.348138Z" modified="2023-04-18T12:24:40.348150Z" visited="2023-04-18T12:24:40.348140Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:24:40.348144Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/Viber" added="2023-04-18T12:24:55.053859Z" modified="2023-04-18T12:24:55.053874Z" visited="2023-04-18T12:24:55.053861Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:24:55.053866Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/0sdthi0rtz271.png" added="2023-04-18T12:25:03.996222Z" modified="2023-04-18T12:25:08.568955Z" visited="2023-04-18T12:25:03.996223Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.568953Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/astronaut.jpg" added="2023-04-18T12:25:08.568983Z" modified="2023-04-18T12:25:08.568987Z" visited="2023-04-18T12:25:08.568984Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.568985Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/bg.jpg" added="2023-04-18T12:25:08.569007Z" modified="2023-04-18T12:25:08.569009Z" visited="2023-04-18T12:25:08.569007Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569008Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/GOW27.jpg" added="2023-04-18T12:25:08.569036Z" modified="2023-04-18T12:25:08.569040Z" visited="2023-04-18T12:25:08.569036Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569037Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/2mn8bo9krcx71.png" added="2023-04-18T12:25:08.569071Z" modified="2023-04-18T12:25:08.569073Z" visited="2023-04-18T12:25:08.569071Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569072Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/forest-river.jpg" added="2023-04-18T12:25:08.569086Z" modified="2023-04-18T12:25:08.569088Z" visited="2023-04-18T12:25:08.569086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569087Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/1i918gwz1gl61.png" added="2023-04-18T12:25:08.569103Z" modified="2023-04-18T12:25:08.569105Z" visited="2023-04-18T12:25:08.569103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569104Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/as3ipcqzv1e61.png" added="2023-04-18T12:25:08.569133Z" modified="2023-04-18T12:25:08.569135Z" visited="2023-04-18T12:25:08.569133Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569134Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/tttm8u1o3r981.png" added="2023-04-18T12:25:08.569145Z" modified="2023-04-18T12:25:08.569148Z" visited="2023-04-18T12:25:08.569145Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569146Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wallpaperflare.com_wallpaper.jpg" added="2023-04-18T12:25:08.569160Z" modified="2023-04-18T12:25:08.569162Z" visited="2023-04-18T12:25:08.569160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569161Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/cxv7qut4pj221.jpg" added="2023-04-18T12:25:08.569172Z" modified="2023-04-18T12:25:08.569175Z" visited="2023-04-18T12:25:08.569173Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569173Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/bbhhuge2spk61.jpg" added="2023-04-18T12:25:08.569183Z" modified="2023-04-18T12:25:08.569185Z" visited="2023-04-18T12:25:08.569183Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569184Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/wp2450670-rick-sanchez-wallpapers.png" added="2023-04-18T12:25:08.569199Z" modified="2023-04-18T12:25:08.569201Z" visited="2023-04-18T12:25:08.569199Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569200Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/lock.png" added="2023-04-18T12:25:08.569222Z" modified="2023-04-18T12:25:08.569225Z" visited="2023-04-18T12:25:08.569223Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569224Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/Pictures/wallpaper/zsi4mwegkyo61.jpg" added="2023-04-18T12:25:08.569235Z" modified="2023-04-18T12:25:08.569237Z" visited="2023-04-18T12:25:08.569235Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-18T12:25:08.569236Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/lol.mlt" added="2023-04-18T16:45:31.981075Z" modified="2023-04-18T16:45:31.981095Z" visited="2023-04-18T16:45:31.981077Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.mlt+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-18T16:45:31.981083Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/dl" added="2023-04-18T16:48:54.419512Z" modified="2023-04-18T16:48:54.419524Z" visited="2023-04-18T16:48:54.419514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-18T16:48:54.419517Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/dl/Quadratic%20Equation.pdf" added="2023-04-19T01:33:53.697750Z" modified="2023-04-19T01:33:53.697767Z" visited="2023-04-19T01:33:53.697751Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-19T01:33:53.697758Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/dl/Ayhskid.zip" added="2023-04-19T06:39:29.977986Z" modified="2023-04-19T06:39:29.978023Z" visited="2023-04-19T06:39:29.977989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-19T06:39:29.977993Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/dl/y2mate.com%20-%20SpiderMan%20No%20Way%20Home%20Peter%20Visits%20MJ%20In%20Store%20After%20She%20Forgot%20Him%204K%2060fps_1080pFHR.mp4" added="2023-04-19T10:50:43.714912Z" modified="2023-04-19T10:50:43.714919Z" visited="2023-04-19T10:50:43.714913Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-19T10:50:43.714916Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/dl/y2mate.com%20-%20Saware%20SlowedReverb%20Arijit%20Singh%20.mp3" added="2023-04-19T11:02:17.384971Z" modified="2023-04-19T11:02:17.385057Z" visited="2023-04-19T11:02:17.384977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-19T11:02:17.384998Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/vid/her.mp4" added="2023-04-19T14:50:14.475117Z" modified="2023-04-22T12:19:46.228060Z" visited="2023-04-19T14:50:14.475123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-19T15:58:40.510822Z" count="5"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:19:46.228054Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/imp" added="2023-04-19T15:30:11.160369Z" modified="2023-04-22T12:13:08.058027Z" visited="2023-04-19T15:30:11.160371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:13:08.058021Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/imp/ayshkid" added="2023-04-19T15:30:12.042690Z" modified="2023-04-19T15:30:12.042706Z" visited="2023-04-19T15:30:12.042692Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-19T15:30:12.042697Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/imp/ayshkid/2bb6390ccffb0607306fcba8f4e02aed.mp4" added="2023-04-19T15:30:13.543689Z" modified="2023-04-19T15:30:13.543702Z" visited="2023-04-19T15:30:13.543690Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-19T15:30:13.543695Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/dl/341168191_782724650047406_5439025380946654522_n.jpg" added="2023-04-20T02:51:25.304142Z" modified="2023-04-20T02:51:36.827296Z" visited="2023-04-20T02:51:25.304143Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-20T02:51:36.827290Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/dl/admit-card.pdf" added="2023-04-21T06:00:18.516713Z" modified="2023-04-21T06:00:18.516726Z" visited="2023-04-21T06:00:18.516714Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-21T06:00:18.516717Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/vid" added="2023-04-22T12:07:03.333041Z" modified="2023-04-22T12:19:43.100349Z" visited="2023-04-22T12:07:03.333041Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:19:43.100346Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/vid/mrrobot-2" added="2023-04-22T12:07:05.097999Z" modified="2023-04-22T12:07:05.098012Z" visited="2023-04-22T12:07:05.098001Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:07:05.098005Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/vid/mrrobot-2/Mr.Robot.S02E07.1080p.10Bit.HEVC.Hindi.English.Esubs.MoviesVerse.Me.mkv" added="2023-04-22T12:07:08.303064Z" modified="2023-04-22T12:11:41.429331Z" visited="2023-04-22T12:07:08.303066Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:11:41.429326Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="computer:///" added="2023-04-22T12:12:39.478088Z" modified="2023-04-22T12:13:17.919307Z" visited="2023-04-22T12:12:39.478089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:13:17.919303Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/music" added="2023-04-22T12:13:03.803370Z" modified="2023-04-22T12:15:57.593921Z" visited="2023-04-22T12:13:03.803371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:15:57.593916Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/code" added="2023-04-22T12:13:10.620997Z" modified="2023-04-22T12:13:10.621002Z" visited="2023-04-22T12:13:10.620998Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:13:10.620999Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/pix" added="2023-04-22T12:13:13.179943Z" modified="2023-04-22T12:13:13.179957Z" visited="2023-04-22T12:13:13.179945Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:13:13.179950Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/pix/me" added="2023-04-22T12:13:14.012551Z" modified="2023-04-22T12:13:14.012564Z" visited="2023-04-22T12:13:14.012553Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:13:14.012557Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2023-04-22T12:15:44.749200Z" modified="2023-04-22T12:19:40.176664Z" visited="2023-04-22T12:15:44.749201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:19:40.176661Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_POCO_X3_Pro_5ba2ee19/Internal%20shared%20storage/Music/Songs" added="2023-04-22T12:15:49.962191Z" modified="2023-04-22T12:15:49.962194Z" visited="2023-04-22T12:15:49.962192Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:15:49.962193Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/music/songs" added="2023-04-22T12:15:58.532290Z" modified="2023-04-22T12:15:58.532303Z" visited="2023-04-22T12:15:58.532292Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:15:58.532296Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_POCO_X3_Pro_5ba2ee19/Internal%20shared%20storage/Download/1080.mp4" added="2023-04-22T12:16:36.025795Z" modified="2023-04-22T12:16:36.025806Z" visited="2023-04-22T12:16:36.025796Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:16:36.025800Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_POCO_X3_Pro_5ba2ee19/Internal%20shared%20storage/Download/PHXDownloads" added="2023-04-22T12:19:06.978073Z" modified="2023-04-22T12:19:06.978085Z" visited="2023-04-22T12:19:06.978074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:19:06.978078Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_POCO_X3_Pro_5ba2ee19/Internal%20shared%20storage/Download/PHXDownloads/BANGBROS%20-%20Brunette%20PAWG%20Karlee%20Grey%20Gets%20Her%20Big%20Ass%20Fucked%20POV%20Style" added="2023-04-22T12:19:08.481451Z" modified="2023-04-22T12:19:08.481465Z" visited="2023-04-22T12:19:08.481453Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:19:08.481457Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_POCO_X3_Pro_5ba2ee19/Internal%20shared%20storage/Download/PHXDownloads/BANGBROS%20-%20Brunette%20PAWG%20Karlee%20Grey%20Gets%20Her%20Big%20Ass%20Fucked%20POV%20Style/BANGBROS%20-%20Brunette%20PAWG%20Karlee%20Grey%20Gets%20Her%20Big%20Ass%20Fucked%20POV%20Style.m3u8" added="2023-04-22T12:19:09.660383Z" modified="2023-04-22T12:19:14.487386Z" visited="2023-04-22T12:19:09.660385Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-mpegurl"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:19:14.487378Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_POCO_X3_Pro_5ba2ee19/Internal%20shared%20storage/Download/PHXDownloads/BANGBROS%20-%20Brunette%20PAWG%20Karlee%20Grey%20Gets%20Her%20Big%20Ass%20Fucked%20POV%20Style/.phxplayer-1341446957" added="2023-04-22T12:19:16.071865Z" modified="2023-04-22T12:19:16.071873Z" visited="2023-04-22T12:19:16.071866Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:19:16.071869Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_POCO_X3_Pro_5ba2ee19/Internal%20shared%20storage/Download/PHXDownloads/NFBusty%20-%20Christmas%20Day%20Titty%20Fuck%20Big%20Naturals%20Ella%20Knox%20S7E11" added="2023-04-22T12:19:20.603614Z" modified="2023-04-22T12:19:20.603628Z" visited="2023-04-22T12:19:20.603616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-22T12:19:20.603620Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/dl/0081.%20Com.%20Mathematics.pdf" added="2023-04-23T01:05:22.240154Z" modified="2023-04-23T01:05:22.240164Z" visited="2023-04-23T01:05:22.240155Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-23T01:05:22.240159Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/dl/drive-download-20230423T041613Z-001.zip" added="2023-04-23T04:16:19.887507Z" modified="2023-04-23T04:16:19.887513Z" visited="2023-04-23T04:16:19.887507Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-23T04:16:19.887510Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/grishma/imp/hell-clip.mp4" added="2023-04-24T11:02:01.696583Z" modified="2023-04-24T11:02:01.696621Z" visited="2023-04-24T11:02:01.696594Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-24T11:02:01.696604Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
