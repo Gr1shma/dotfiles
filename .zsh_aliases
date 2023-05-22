@@ -1,0 +1,9 @@
+alias hx='helix'
+alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias hst="history 1 -1 | cut -c 8- | sort | uniq | fzf | tr -d '\n' | xclip -sel c"
+alias dw='~/Downloads'
+alias dc='~/Documents'
+alias ru='~/Documents/RUST'
+alias project='~/Documents/projects'
+alias dly='echo "### $(date "+%y-%m-%d-%a")\n- todo:\n- read:\n- idea: \n- thought: " >> ~/dox/sec-brain/daily/$(date "+%y-%m-%d-%a").md && helix ~/dox/sec-brain/daily/$(date "+%y-%m-%d-%a").md'
+alias wdly='glow ~/dox/sec-brain/daily/'

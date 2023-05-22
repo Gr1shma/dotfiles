@@ -6,18 +6,12 @@ export LC_ALL="C"
 
 # "random" for random theme and echo $RANDOM_THEME to know which one
 ZSH_THEME="gianu"
-alias hx='helix'
-alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
-alias hst="history 1 -1 | cut -c 8- | sort | uniq | fzf | tr -d '\n' | xclip -sel c"
-alias dw='~/Downloads'
-alias dc='~/Documents'
-alias ru='~/Documents/RUST'
-alias project='~/Documents/projects'
+# ZSH_THEME="alanpeabody"
 
 # git plugin
 plugins=(git)
 source $ZSH/oh-my-zsh.sh
-
+source ~/.zsh_aliases
 # pomodoro
 declare -A pomo_options
 pomo_options["work"]="60"
