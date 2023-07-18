@@ -569,3 +569,5 @@ ERR 2023-01-13T15:28:55.311 nvim.27189.0 decor_provider_invoke:38: error in prov
 stack traceback:
 ERR 2023-01-13T15:28:55.311 nvim.27189.0 decor_provider_invoke:38: error in provider (UNKNOWN PLUGIN):end: Error executing lua: attempt to call a nil value
 stack traceback:
+ERR 2023-06-13T19:36:30.468 ?.11894    tui_mode_change:1146: uv_tty_set_mode failed: inappropriate ioctl for device
+ERR 2023-06-13T19:37:09.553 ?.12219    tui_mode_change:1146: uv_tty_set_mode failed: inappropriate ioctl for device

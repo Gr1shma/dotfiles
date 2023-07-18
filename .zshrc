@@ -12,18 +12,4 @@ ZSH_THEME="gianu"
 plugins=(git)
 source $ZSH/oh-my-zsh.sh
 source ~/.zsh_aliases
-# pomodoro
-declare -A pomo_options
-pomo_options["work"]="60"
-pomo_options["break"]="10"
 
-pomodoro () {
-  if [ -n "$1" -a -n "${pomo_options["$1"]}" ]; then
-    val=$1
-    timer ${pomo_options["$val"]}m
-    echo "Completed"
-  fi
-}
-
-alias wo="pomodoro 'work'"
-alias br="pomodoro 'break'"

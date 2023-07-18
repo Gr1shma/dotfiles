@@ -23,7 +23,7 @@ super + w
 	set_wallpaper
 
 super + shift + d
-	set_wallpaper ~/pix/wallpaper/bg.jpg
+	set_wallpaper ~/pix/wallpaper/Mountain-Forest.jpg
 
 super + shift + n
 	set_wallpaper ~/pix/wallpaper/night_bg.jpg
