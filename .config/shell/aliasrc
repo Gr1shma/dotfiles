@@ -1,0 +1,34 @@
+# program
+alias hx='helix'
+alias z='zathura'
+
+# repo
+alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
+# terminal
+alias hst="history 1 -1 | cut -c 8- | sort | uniq | fzf | tr -d '\n' | xclip -sel c"
+
+# sec-brain
+alias dly='echo "### $(date "+%y-%m-%d-%a")\n- sleep-hr:\n- study-hr:\n-general todo:\n- study todo:\n- read:\n- idea: \n- thought: " >> ~/dox/sec-brain/journal/daily/$(date "+%y-%m-%d-%a").md && nvim ~/dox/sec-brain/journal/daily/$(date "+%y-%m-%d-%a").md'
+alias edly='edly ~/dox/sec-brain/journal/daily/$(date "+%y-%m-%d-%a").md'
+alias sb='~/dox/sec-brain'
+
+# dir
+alias web='~/code/website/'
+alias ioe='~/dox/ioe/'
+
+# pomodoro
+declare -A pomo_options
+pomo_options["work"]="120"
+pomo_options["break"]="30"
+
+pomodoro () {
+  if [ -n "$1" -a -n "${pomo_options["$1"]}" ]; then
+    val=$1
+    timer ${pomo_options["$val"]}m
+    echo "Completed"
+  fi
+}
+
+alias wo="pomodoro 'work'"
+alias br="pomodoro 'break'"
