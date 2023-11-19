@@ -17,6 +17,11 @@ alias sb='~/dox/sec-brain'
 alias web='~/code/website/'
 alias ioe='~/dox/ioe/'
 
+# hard-drive
+alias hd='/run/media/grishma/E27AFFE97AFFB87D'
+alias mnt='udisksctl mount -b /dev/sdb2'
+alias unmnt='udisksctl unmount -b /dev/sdb2'
+
 # pomodoro
 declare -A pomo_options
 pomo_options["work"]="120"
