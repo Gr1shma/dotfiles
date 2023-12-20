@@ -1,1 +1,35 @@
+set scrolloff=8
+set number
+set relativenumber
+set tabstop=4 softtabstop=4
+set shiftwidth=4
+set expandtab
+set smartindent
+
+call plug#begin('~/.vim/plugged')
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
+Plug 'ayu-theme/ayu-vim'
+Plug 'morhetz/gruvbox'
+call plug#end()
+
+" This was from the colorscheme section
+set termguicolors     " enable true colors support
+let ayucolor="dark"   " for dark version of theme
+colorscheme ayu
+
+let mapleader = " "
+nnoremap <leader>pv :Ex<CR>
+nnoremap <leader>w :w<CR>
+nnoremap <leader>q :q<CR>
+nnoremap <leader>vpp :e ~/.config/vim/vimrc<CR>
+nnoremap <leader><CR> :so ~/.config/vim/vimrc<CR>
+nnoremap <C-p> :GFiles<CR>
+nnoremap <leader>pf :Files<CR>
+nnoremap <C-j> :cnext<CR>
+nnoremap <C-k> :cprev<CR>
+inoremap jk <ESC>
+nnoremap <C-p> :GFiles<CR>
+vnoremap <leader>p "_dP
+vnoremap <leader>y "+dP
 
