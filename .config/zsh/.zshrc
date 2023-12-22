@@ -20,3 +20,4 @@ function stopwatch(){
     sleep 0.1
    done
 }
+bindkey -s ^f "tmux-sessionizer\n"
