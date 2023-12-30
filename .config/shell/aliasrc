@@ -2,6 +2,12 @@
 alias hx='helix'
 alias z='zathura'
 
+# yt-dlp
+alias ytbdl="youtube-dl -f bestvideo+bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c"
+alias ytadl="youtube-dl -x -f bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c"
+alias ytdl="youtube-dl -f best -o '%(title)s.%(ext)s' --external-downloader=aria2c"
+alias ytpdl="youtube-dl -f best -o '%(playlist_index)s. %(title)s.%(ext)s' --external-downloader=aria2c" 
+
 # repo
 alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 

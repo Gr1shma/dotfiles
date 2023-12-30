@@ -13,6 +13,6 @@ while true
 do
   sleep 1 &
   wait && {
-    [ $((sec % 5)) -eq 0 ] && bat_rem
+    [ $((sec % 60)) -eq 0 ] && bat_rem
   }
 done
