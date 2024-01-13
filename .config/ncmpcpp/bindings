@@ -479,7 +479,7 @@ def_key "P"
   show_playlist
 
 #music seeking
-def_key "ctrl-h"
-  seek_forward
 def_key "ctrl-l"
+  seek_forward
+def_key "ctrl-h"
   seek_backward

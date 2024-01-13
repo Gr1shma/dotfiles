@@ -21,3 +21,5 @@ function stopwatch(){
    done
 }
 bindkey -s ^f "tmux-sessionizer\n"
+
+# vi mode

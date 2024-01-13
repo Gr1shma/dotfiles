@@ -3,7 +3,7 @@
 if [[ $# -eq 1 ]]; then
     selected=$1
 else
-    selected=$(find ~/code/js/old-js-projects ~/ ~/code/js/ ~/code/py/ ~/code/rs/ ~/code/ts/ ~/code/go/ ~/code/sh/ ~/.local/src/ -mindepth 1 -maxdepth 1 -type d | fzf)
+    selected=$(find ~/code/js/old-js-projects ~/ ~/personal ~/.local/src/ -mindepth 1 -maxdepth 1 -type d | fzf)
 fi
 
 if [[ -z $selected ]]; then
@@ -14,7 +14,7 @@ selected_name=$(basename "$selected" | tr . _)
 tmux_running=$(pgrep tmux)
 
 if [[ -z $TMUX ]] && [[ -z $tmux_running ]]; then
-    tmux new-session -s $selected_name -c $selected 
+    tmux new-session -s $selected_name -c $selected
     exit 0
 fi
 
