@@ -37,20 +37,20 @@ super + shift + {f,w,e}
 ctrl + shift + s
 	maim --select | xclip -selection clipboard -t image/png
 
-super + shift + s 
+super + shift + s
 	maim | tee ~/pix/ss/$(date +%s).png | xclip -sel c -t image/png
 
 # Brighness control
 XF86MonBrightness{Up,Down}
 	brightnessctl s{ +10%, 10%-}
-	
+
 XF86Audio{RaiseVolume,LowerVolume}
 	pamixer -{i,d,t} 5; kill -34 $(cat ~/.cache/pidofbar)
-	
+
 # Music control
 XF86Audio{Next,Prev,Play,Stop}
 	mpc {next,prev,toggle,stop}
 
 # Emoji Menu
 super + shift + a
-	rofi -modi emoji -show emoji
+  emoji
