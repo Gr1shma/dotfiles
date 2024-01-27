@@ -39,5 +39,4 @@ sxhkd &
 dunst &
 picom &
 syncthing &
-batt_rem &
-exec dwm 
+exec dwm

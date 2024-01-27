@@ -6,8 +6,8 @@ alias z='zathura'
 alias ytbdl="youtube-dl -f bestvideo+bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c"
 alias ytadl="youtube-dl -x -f bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c"
 alias ytdl="youtube-dl -f best -o '%(title)s.%(ext)s' --external-downloader=aria2c"
-alias ytpdl="youtube-dl -f best -o '%(playlist_index)s. %(title)s.%(ext)s' --external-downloader=aria2c" 
-alias ytapdl="youtube-dl -f bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c" 
+alias ytpdl="youtube-dl -f best -o '%(playlist_index)s. %(title)s.%(ext)s' --external-downloader=aria2c"
+alias ytapdl="youtube-dl -f bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c"
 
 # repo
 alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
@@ -16,8 +16,8 @@ alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias hst="history 1 -1 | cut -c 8- | sort | uniq | fzf | tr -d '\n' | xclip -sel c"
 
 # sec-brain
-alias dly='echo "### $(date "+%y-%m-%d-%a")\n- sleep-hr:\n- study-hr:\n-general todo:\n- study todo:\n- read:\n- idea: \n- thought: " >> ~/dox/sec-brain/journal/daily/$(date "+%y-%m-%d-%a").md && nvim ~/dox/sec-brain/journal/daily/$(date "+%y-%m-%d-%a").md'
-alias edly='edly ~/dox/sec-brain/journal/daily/$(date "+%y-%m-%d-%a").md'
+alias dly='echo "### $(date "+%y-%m-%d-%a")\n- sleep-hr:\n- study-hr:\n- general todo:\n- study todo:\n- read:\n- idea: \n- thought: " >> ~/dox/sec-brain/journal/$(date "+%y-%m-%d-%a").md && nvim ~/dox/sec-brain/journal/$(date "+%y-%m-%d-%a").md'
+alias edly='edly ~/dox/sec-brain/journal/$(date "+%y-%m-%d-%a").md'
 alias sb='~/dox/sec-brain'
 
 # dir
