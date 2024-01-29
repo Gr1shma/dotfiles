@@ -54,3 +54,7 @@ XF86Audio{Next,Prev,Play,Stop}
 # Emoji Menu
 super + shift + a
   emoji
+
+# sem
+super + {ctrl} + {c}
+  find /home/grishma/sem -follow -maxdepth 1 | rev | cut -d'/' -f1 | rev | sed '/^[[:space:]]*$/d' | rofi -dmenu | read csem && st -e /bin/zsh -c "cd ~/sem/$csem && exec /bin/zsh";
