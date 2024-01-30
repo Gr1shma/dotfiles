@@ -16,8 +16,6 @@ alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias hst="history 1 -1 | cut -c 8- | sort | uniq | fzf | tr -d '\n' | xclip -sel c"
 
 # sec-brain
-alias dly='echo "### $(date "+%y-%m-%d-%a")\n- sleep-hr:\n- study-hr:\n- general todo:\n- study todo:\n- read:\n- idea: \n- thought: " >> ~/dox/sec-brain/journal/$(date "+%y-%m-%d-%a").md && nvim ~/dox/sec-brain/journal/$(date "+%y-%m-%d-%a").md'
-alias edly='edly ~/dox/sec-brain/journal/$(date "+%y-%m-%d-%a").md'
 alias sb='~/dox/sec-brain'
 
 # dir

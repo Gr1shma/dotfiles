@@ -1,0 +1,18 @@
+#!/bin/bash
+
+rs="$(find /home/grishma/dox/abstract -follow -printf "%T@ %Tc %p\n" | sort -n -r | cut -c83- | grep -E '.md$' | grep -v 'template')"
+rcv=$(echo "$rs" | rofi -dmenu)
+if [[ "$rcv" == "" ]]; then exit 1; fi
+if [[ $(echo "$rs" | grep "$rcv") ]]; then
+  note_file="~/dox/abstract/$rcv"
+  note_file=$(eval echo "$note_file")
+  echo $note_file
+  st -t "$rcv" -e nvim -c ":ZenMode" +'q' $note_file
+else
+  if [[ $(echo "$rcv" | grep -v -E ".md$") ]]; then
+    rcv="$rcv.md"
+  fi
+  note_file="~/dox/abstract/$rcv"
+  note_file=$(eval echo "$note_file")
+  st -t "$rcv" -e nvim -c ":ZenMode" +'q' $note_file
+fi
