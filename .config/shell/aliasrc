@@ -1,6 +1,7 @@
 # program
 alias hx='helix'
 alias z='zathura'
+alias t='tmux'
 
 # yt-dlp
 alias ytbdl="youtube-dl -f bestvideo+bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c"

@@ -4,7 +4,7 @@ super + Return
 
 # program launcher
 super + space
- 	dmenu_run
+    dmenu_run
 
 # wifi connection
 super + i
@@ -56,7 +56,7 @@ super + shift + a
   emoji
 
 # sem
-super + {ctrl} + {c}
+super + shift + {c}
   find /home/grishma/sem -follow -maxdepth 1 | rev | cut -d'/' -f1 | rev | sed '/^[[:space:]]*$/d' | rofi -dmenu | read csem && st -e /bin/zsh -c "cd ~/sem/$csem && exec /bin/zsh";
 
 # general notes

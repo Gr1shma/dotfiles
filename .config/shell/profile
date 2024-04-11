@@ -35,5 +35,6 @@ export MPD_PORT="6600"
 
 # Starting X
 if [ -z "${DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
-  exec startx
+    exec startx
+    # exec Hyprland
 fi
