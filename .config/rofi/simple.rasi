@@ -2,7 +2,7 @@ configuration {
 	display-run: "";
 	icon-theme: "Papirus-Light";
 	fixed-num-lines: false;
-	font: "JetBrainsMono 12";
+	font: "JetBrainsMono 20";
 }
 
 @import "~/.cache/wal/colors-rofi-dark"
