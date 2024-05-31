@@ -28,7 +28,7 @@
   show_age_threshold = 60
   word_wrap = yes
   ignore_newline = no
-  stack_duplicates = false
+  stack_duplicates = true
   hide_duplicate_count = yes
   show_indicators = no
   icon_position = off

@@ -81,8 +81,8 @@ element-text {
 }
 
 element-text selected {
-	background-color: @background;
-	text-color: @foreground;
+	background-color: @selected-normal-background;
+	text-color: @selected-normal-foreground;
 	padding: 0.2em 0.2em 0.2em 0.2em;
 	border: 0;
 }
