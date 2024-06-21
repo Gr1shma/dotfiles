@@ -25,8 +25,8 @@ alias ioe='~/dox/ioe/'
 
 # hard-drive
 alias hd='/run/media/grishma/E27AFFE97AFFB87D'
-alias mnt='udisksctl mount -b /dev/sdb2'
-alias unmnt='udisksctl unmount -b /dev/sdb2'
+alias mnt='udisksctl mount -b /dev/sda2'
+alias unmnt='udisksctl unmount -b /dev/sda2'
 
 # pomodoro
 declare -A pomo_options
