@@ -30,6 +30,8 @@ export PATH=$PATH:$HOME/.local/bin
 export MPD_HOST="localhost"
 export MPD_PORT="6600"
 
+export QT_QPA_PLATFORMTHEME=gtk2
+
 # Mpd daemon start
 [ ! -s ~/.config/mpd/pid ] && mpd
 
