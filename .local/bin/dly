@@ -1,6 +1,6 @@
 #!/bin/bash
 
-daily_file="~/dox/sec-brain/journal/$(date "+%y-%m-%d-%a").md"
+daily_file="~/dox/journal/$(date "+%y-%m-%d-%a").md"
 daily_file=$(eval echo "$daily_file")
 
 if [ -e "$daily_file" ]; then

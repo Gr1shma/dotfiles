@@ -42,7 +42,7 @@ super + shift + s
 
 # Brighness control
 XF86MonBrightness{Up,Down}
-	brightnessctl s{ +10%, 10%-}
+	brightnessctl s{ +5%, 5%-}
 
 XF86Audio{RaiseVolume,LowerVolume}
 	pamixer -{i,d,t} 5; kill -34 $(cat ~/.cache/pidofbar)

@@ -1,5 +1,4 @@
 [Default Applications]
-
 text/x-shellscript=text.desktop;
 text/plain=text.desktop;
 application/postscript=pdf.desktop;
@@ -10,3 +9,10 @@ image/gif=img.desktop;
 video/x-matroska=video.desktop
 video/mp4=video.desktop
 inode/directory=file.desktop
+x-scheme-handler/postman=Postman.desktop
+application/zip=userapp-ext-5RROS2.desktop
+x-scheme-handler/tonsite=org.telegram.desktop.desktop
+
+[Added Associations]
+application/zip=userapp-ext-5RROS2.desktop;
+x-scheme-handler/tonsite=org.telegram.desktop.desktop;

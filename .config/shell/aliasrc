@@ -32,7 +32,7 @@ alias unmnt='udisksctl unmount -b /dev/sda2'
 
 # pomodoro
 declare -A pomo_options
-pomo_options["work"]="120"
+pomo_options["work"]="60"
 pomo_options["break"]="30"
 
 pomodoro () {
