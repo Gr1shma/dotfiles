@@ -40,6 +40,7 @@ pomodoro () {
     val=$1
     timer ${pomo_options["$val"]}m
     echo "Completed"
+    notify-send "Session Done"
   fi
 }
 

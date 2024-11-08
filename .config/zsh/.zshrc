@@ -23,3 +23,6 @@ function stopwatch(){
 bindkey -s ^f "tmux-sessionizer\n"
 
 # vi mode
+
+# bun completions
+[ -s "/home/grishma/.bun/_bun" ] && source "/home/grishma/.bun/_bun"
