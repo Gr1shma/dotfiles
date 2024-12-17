@@ -4,10 +4,8 @@ alias z='zathura'
 alias m='mupdf'
 alias t='tmux'
 alias vim='nvim'
-alias cp="cp -iv"
-alias mv="mv -iv"
-alias rm="rm -vI"
 alias l="ls -la"
+alias ls="ls --color"
 
 # yt-dlp
 alias ytbdl="youtube-dl -f bestvideo+bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c"

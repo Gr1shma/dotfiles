@@ -40,6 +40,6 @@ dwm_bar &
 set_wallpaper &
 sxhkd &
 dunst &
-picom &
+xcompmgr &
 syncthing &
 exec dwm
