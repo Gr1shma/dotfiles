@@ -1,18 +1,49 @@
+#!/bin/sh
+
+# Use neovim for vim if present.
+[ -x "$(command -v nvim)" ] && alias vim="nvim" vimdiff="nvim -d"
+
+# Use $XINITRC variable if file exists.
+[ -f "$XINITRC" ] && alias startx="startx $XINITRC"
+
+[ -f "$MBSYNCRC" ] && alias mbsync="mbsync -c $MBSYNCRC"
+
+# sudo not required for some system commands
+for command in mount umount sv pacman updatedb su shutdown poweroff reboot ; do
+    alias $command="sudo $command"
+done; unset command
+
+se() {
+    choice="$(find ~/.local/bin -mindepth 1 -printf '%P\n' | fzf)"
+    [ -f "$HOME/.local/bin/$choice" ] && $EDITOR "$HOME/.local/bin/$choice"
+}
+
 # program
-alias hx='helix'
-alias z='zathura'
-alias m='mupdf'
-alias t='tmux'
-alias vim='nvim'
-alias l="ls -la"
-alias ls="ls --color"
+alias \
+    z='zathura' \
+    m='mupdf' \
+    t='tmux' \
+    y='yazi' \
+    sdn="shutdown -h now" \
+    e="$EDITOR" \
+    v="$EDITOR" \
+    p="pacman" \
+
+# Colorize commands when possible.
+alias \
+	ls="ls -hN --color=auto --group-directories-first" \
+	grep="grep --color=auto" \
+	diff="diff --color=auto" \
+	ip="ip -color=auto" \
+    l="ls -lah"
 
 # yt-dlp
-alias ytbdl="youtube-dl -f bestvideo+bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c"
-alias ytadl="youtube-dl -x -f bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c"
-alias ytdl="youtube-dl -f best -o '%(title)s.%(ext)s' --external-downloader=aria2c"
-alias ytpdl="youtube-dl -f best -o '%(playlist_index)s. %(title)s.%(ext)s' --external-downloader=aria2c"
-alias ytapdl="youtube-dl -f bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c"
+alias \
+    ytbdl="youtube-dl -f bestvideo+bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c" \
+    ytadl="youtube-dl -x -f bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c" \
+    ytdl="youtube-dl -f best -o '%(title)s.%(ext)s' --external-downloader=aria2c" \
+    ytpdl="youtube-dl -f best -o '%(playlist_index)s. %(title)s.%(ext)s' --external-downloader=aria2c" \
+    ytapdl="youtube-dl -f bestaudio -o '%(title)s.%(ext)s' --external-downloader=aria2c"
 
 # repo
 alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
@@ -20,31 +51,9 @@ alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 # terminal
 alias hst="history 1 -1 | cut -c 8- | sort | uniq | fzf | tr -d '\n' | xclip -sel c"
 
-# sec-brain
-alias sb='~/dox/sec-brain'
-
-# dir
-alias web='~/code/website/'
-alias ioe='~/dox/ioe/'
-
 # hard-drive
-alias hd='/run/media/grishma/E27AFFE97AFFB87D'
-alias mnt='udisksctl mount -b /dev/sda2'
-alias unmnt='udisksctl unmount -b /dev/sda2'
-
-# pomodoro
-declare -A pomo_options
-pomo_options["work"]="60"
-pomo_options["break"]="30"
-
-pomodoro () {
-  if [ -n "$1" -a -n "${pomo_options["$1"]}" ]; then
-    val=$1
-    timer ${pomo_options["$val"]}m
-    echo "Completed"
-    notify-send "Session Done"
-  fi
-}
-
-alias wo="pomodoro 'work'"
-alias br="pomodoro 'break'"
+alias \
+    hd='/run/media/grishma/E27AFFE97AFFB87D' \
+    mnt='udisksctl mount -b /dev/sda2' \
+    unmnt='udisksctl unmount -b /dev/sda2' \
+    hdfix='sudo ntfsfix -d /dev/sda2'
