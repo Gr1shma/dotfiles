@@ -1,5 +1,7 @@
 #!/bin/sh
 
-rsync -av --delete ~/dox /run/media/grishma/E27AFFE97AFFB87D/backup/
-rsync -av --delete ~/music /run/media/grishma/E27AFFE97AFFB87D/backup/
-rsync -av --delete ~/pix /run/media/grishma/E27AFFE97AFFB87D/backup/
+HARD_DISK_MOUNT_POINT=$(udisksctl info -b /dev/sda2 | grep 'MountPoints:' | awk '{print $2}')
+
+rsync -av --delete ~/dox $HARD_DISK_MOUNT_POINT/backup/
+rsync -av --delete ~/music $HARD_DISK_MOUNT_POINT/backup/
+rsync -av --delete ~/pix $HARD_DISK_MOUNT_POINT/backup/

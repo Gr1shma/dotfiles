@@ -4,8 +4,8 @@ daily_file="~/dox/journal/$(date "+%y-%m-%d-%a").md"
 daily_file=$(eval echo "$daily_file")
 
 if [ -e "$daily_file" ]; then
-  nvim -c ":ZenMode" +'q' $daily_file
+    nvim -c ":ZenMode" +'q' $daily_file
 else
-  echo -e "### $(date "+%y-%m-%d-%a")\n- todo:\n- read:\n- idea:\n- thought: " > "$daily_file"
-  nvim -c ":ZenMode" +'q' $daily_file
+    echo -e "### $(date "+%y-%m-%d-%a")\n- todo:\n- read:\n- idea:\n- thought: " > "$daily_file"
+    nvim -c ":ZenMode" +'q' $daily_file
 fi

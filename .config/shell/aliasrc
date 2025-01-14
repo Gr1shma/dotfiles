@@ -28,6 +28,7 @@ alias \
     e="$EDITOR" \
     v="$EDITOR" \
     p="pacman" \
+    pu="pacman -Syu" \
 
 # Colorize commands when possible.
 alias \
