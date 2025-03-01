@@ -1,5 +1,12 @@
 #!/bin/bash
 
 file=$(find . -type f | dmenu -i -l 25)
-curl -F "file=@$file" 0x0.st | xclip -selection c
-notify-send "file is clipped"
+
+link=$(curl -F "file=@$file" https://0x0.st)
+
+filename=$(basename "$file")
+custom_link="${link}/${filename}"
+
+echo -n "$custom_link" | xclip -selection c
+
+notify-send "File uploaded!"

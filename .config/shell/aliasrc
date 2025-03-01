@@ -36,7 +36,8 @@ alias \
 	grep="grep --color=auto" \
 	diff="diff --color=auto" \
 	ip="ip -color=auto" \
-    l="ls -lah"
+    l="ls -lah" \
+    sz="setsid -f zathura" \
 
 # yt-dlp
 alias \
